@@ -1,0 +1,36 @@
+{
+  "project_name": "projeto-nova-metrica-analytics",
+  "engine": "gemini",
+  "environment": {
+    "python_path": ".venv/Scripts/python.exe",
+    "encoding": "utf-8"
+  },
+  "governance": {
+    "framework": "entregaveis-executivos-novametrica",
+    "strict_tagging": true,
+    "tags": [
+      "[CONFIRMADO]",
+      "[PROVÁVEL]",
+      "[HIPÓTESE]",
+      "[DADO AUSENTE]",
+      "[INCONSISTÊNCIA]"
+    ],
+    "business_thresholds": {
+      "margem_minima_percentual": 32.0,
+      "desconto_maximo_teto": 18.0,
+      "devolucao_maxima_tolerada": 5.0
+    },
+    "exploratory_scripts_dir": "07_scripts_exploratorios/",
+    "rules": {
+      "root_scripts_prohibited": true,
+      "root_scripts_prohibition_policy": "É terminantemente proibido salvar scripts Python (.py), notebooks (.ipynb) ou códigos de profiling soltos na raiz. Todo script de exploração, checagem, saneamento ou teste de hipótese deve ser obrigatoriamente versionado e salvo dentro de 07_scripts_exploratorios/ como evidência documental de pesquisa.",
+      "enforce_venv_execution": true,
+      "enforce_venv_execution_policy": "Toda e qualquer execução de código, auditoria ou análise DEVE ser feita exclusivamente utilizando o interpretador do ambiente virtual (.venv/Scripts/python.exe)."
+    }
+  },
+  "context_files": [
+    "GEMINI_CONTEXT.md",
+    "04_governanca_e_contexto/system_prompt_contexto_antigravity_gemini.txt",
+    "skills_e_templates/SKILL.md"
+  ]
+}

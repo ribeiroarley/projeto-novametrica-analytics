@@ -1,0 +1,46 @@
+{
+  "empresa": "NovaMétrica",
+  "periodo_analise": "Janeiro a abril de 2026",
+  "metas_gerais": {
+    "margem_bruta_minima": 0.32,
+    "taxa_devolucao_maxima": 0.05,
+    "desconto_medio_maximo": 0.18,
+    "crescimento_receita_mensal_desejado": 0.08
+  },
+  "alertas": [
+    {
+      "nome": "Margem baixa",
+      "regra": "Margem_Perc < 0.32",
+      "severidade": "Alta"
+    },
+    {
+      "nome": "Devolução elevada",
+      "regra": "Taxa_Devolucao > 0.05",
+      "severidade": "Média"
+    },
+    {
+      "nome": "Desconto agressivo",
+      "regra": "Desconto_Perc_Estimado > 0.18",
+      "severidade": "Alta"
+    },
+    {
+      "nome": "Campanha sem ganho claro",
+      "regra": "Pedidos sobem sem melhora de margem",
+      "severidade": "Média"
+    }
+  ],
+  "filtros_sugeridos_artifact": [
+    "Mes",
+    "Regiao",
+    "Categoria",
+    "Campanha"
+  ],
+  "kpis_recomendados": [
+    "Receita líquida",
+    "Margem bruta",
+    "Margem %",
+    "Pedidos",
+    "Taxa de devolução",
+    "Desconto estimado"
+  ]
+}

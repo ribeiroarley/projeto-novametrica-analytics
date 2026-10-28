@@ -1,0 +1,205 @@
+﻿Mes;Regiao;Categoria;Campanha;Receita_Liquida;Margem_Bruta;Margem_Perc;Pedidos;Unidades;Desconto_Perc_Estimado;Taxa_Devolucao
+2026-01;Centro-Oeste;Beleza;Sem Campanha;534.72;288.72;0.5399;1;3;0.0614;0.0000
+2026-01;Centro-Oeste;Casa;Liquida Verão;1275.68;500.68;0.3925;2;6;0.1075;0.0000
+2026-01;Centro-Oeste;Eletrônicos;Liquida Verão;1128.85;468.85;0.4153;2;5;0.0966;0.0000
+2026-01;Centro-Oeste;Eletrônicos;Sem Campanha;3618.83;1581.83;0.4371;5;13;0.0423;0.0000
+2026-01;Centro-Oeste;Escritório;Liquida Verão;2236.20;788.20;0.3525;3;6;0.1397;0.0000
+2026-01;Centro-Oeste;Escritório;Sem Campanha;2598.47;1038.47;0.3996;2;3;0.0375;0.0000
+2026-01;Centro-Oeste;Esporte;Liquida Verão;259.72;135.72;0.5226;2;2;0.1337;0.0000
+2026-01;Centro-Oeste;Esporte;Sem Campanha;770.24;422.24;0.5482;2;6;0.0118;0.0000
+2026-01;Centro-Oeste;Moda;Liquida Verão;1630.13;742.13;0.4553;4;7;0.1137;0.0000
+2026-01;Centro-Oeste;Moda;Sem Campanha;2829.40;1333.40;0.4713;5;9;0.0659;0.2000
+2026-01;Centro-Oeste;Pet;Liquida Verão;236.92;92.92;0.3922;1;1;0.0884;0.0000
+2026-01;Centro-Oeste;Pet;Sem Campanha;1360.26;588.26;0.4325;3;6;0.0550;0.0000
+2026-01;Nordeste;Beleza;Liquida Verão;841.15;381.15;0.4531;3;4;0.1048;0.0000
+2026-01;Nordeste;Beleza;Sem Campanha;732.22;404.22;0.5520;2;4;0.0360;0.0000
+2026-01;Nordeste;Casa;Liquida Verão;1303.14;487.14;0.3738;3;4;0.0948;0.0000
+2026-01;Nordeste;Casa;Sem Campanha;1813.60;761.60;0.4199;4;6;0.0350;0.0000
+2026-01;Nordeste;Eletrônicos;Liquida Verão;1042.73;382.73;0.3670;2;5;0.1655;0.0000
+2026-01;Nordeste;Eletrônicos;Sem Campanha;5238.80;2169.80;0.4142;8;14;0.0507;0.1250
+2026-01;Nordeste;Escritório;Liquida Verão;2161.71;815.71;0.3773;2;5;0.0991;0.0000
+2026-01;Nordeste;Escritório;Sem Campanha;6813.70;2807.70;0.4121;6;11;0.0320;0.0000
+2026-01;Nordeste;Esporte;Liquida Verão;458.18;174.18;0.3802;2;2;0.1352;0.0000
+2026-01;Nordeste;Esporte;Sem Campanha;1330.22;678.22;0.5099;5;8;0.0560;0.2000
+2026-01;Nordeste;Moda;Liquida Verão;1624.61;700.61;0.4312;4;6;0.1536;0.0000
+2026-01;Nordeste;Moda;Sem Campanha;1866.53;892.53;0.4782;4;6;0.0474;0.0000
+2026-01;Nordeste;Pet;Liquida Verão;418.23;176.23;0.4214;2;2;0.0904;0.0000
+2026-01;Nordeste;Pet;Sem Campanha;673.52;287.52;0.4269;3;3;0.0642;0.0000
+2026-01;Sudeste;Beleza;Sem Campanha;267.81;119.81;0.4474;1;1;0.0432;0.0000
+2026-01;Sudeste;Casa;Liquida Verão;1066.88;409.88;0.3842;2;5;0.1179;0.0000
+2026-01;Sudeste;Casa;Sem Campanha;4071.10;1683.10;0.4134;6;11;0.0304;0.0000
+2026-01;Sudeste;Eletrônicos;Liquida Verão;1812.48;684.48;0.3776;5;8;0.1447;0.2000
+2026-01;Sudeste;Eletrônicos;Sem Campanha;4150.08;1681.08;0.4051;5;8;0.0414;0.0000
+2026-01;Sudeste;Escritório;Liquida Verão;1173.30;487.30;0.4153;4;7;0.1368;0.0000
+2026-01;Sudeste;Escritório;Sem Campanha;2221.39;1001.39;0.4508;5;8;0.0254;0.2000
+2026-01;Sudeste;Esporte;Liquida Verão;1376.49;472.49;0.3433;3;4;0.1395;0.0000
+2026-01;Sudeste;Esporte;Sem Campanha;360.67;186.67;0.5176;1;3;0.0745;0.0000
+2026-01;Sudeste;Moda;Sem Campanha;3754.26;1792.26;0.4774;8;14;0.0588;0.0000
+2026-01;Sudeste;Pet;Liquida Verão;419.66;177.66;0.4233;1;2;0.0873;0.0000
+2026-01;Sudeste;Pet;Sem Campanha;2459.06;1036.06;0.4213;5;11;0.0717;0.0000
+2026-01;Sul;Beleza;Liquida Verão;1510.01;622.01;0.4119;2;6;0.1009;0.0000
+2026-01;Sul;Beleza;Sem Campanha;3180.59;1570.59;0.4938;7;14;0.0328;0.0000
+2026-01;Sul;Casa;Liquida Verão;1722.12;587.12;0.3409;2;5;0.1344;0.0000
+2026-01;Sul;Casa;Sem Campanha;2343.64;1013.64;0.4325;6;9;0.0312;0.0000
+2026-01;Sul;Eletrônicos;Liquida Verão;205.62;73.62;0.3580;1;1;0.1772;0.0000
+2026-01;Sul;Eletrônicos;Não informado;324.09;126.09;0.3891;1;1;0.0995;0.0000
+2026-01;Sul;Eletrônicos;Sem Campanha;2966.89;1259.89;0.4247;6;8;0.0365;0.0000
+2026-01;Sul;Escritório;Liquida Verão;627.56;275.56;0.4391;1;4;0.1279;0.0000
+2026-01;Sul;Escritório;Sem Campanha;1544.36;672.36;0.4354;4;5;0.0464;0.2500
+2026-01;Sul;Esporte;Liquida Verão;568.69;220.69;0.3881;4;6;0.2703;0.0000
+2026-01;Sul;Esporte;Sem Campanha;246.63;130.63;0.5297;2;2;0.0507;0.0000
+2026-01;Sul;Moda;Liquida Verão;3211.63;1429.63;0.4451;3;11;0.1174;0.3333
+2026-01;Sul;Moda;Sem Campanha;2386.85;1180.85;0.4947;5;8;0.0215;0.0000
+2026-01;Sul;Pet;Liquida Verão;1297.91;479.91;0.3698;2;6;0.1344;0.0000
+2026-01;Sul;Pet;Sem Campanha;1837.62;800.62;0.4357;5;8;0.0475;0.0000
+2026-02;Centro-Oeste;Beleza;Sem Campanha;891.28;431.28;0.4839;4;4;0.0514;0.2500
+2026-02;Centro-Oeste;Casa;Sem Campanha;2049.05;866.05;0.4227;6;8;0.0466;0.0000
+2026-02;Centro-Oeste;Eletrônicos;Sem Campanha;5154.90;2148.90;0.4169;4;12;0.0363;0.0000
+2026-02;Centro-Oeste;Escritório;Sem Campanha;1425.61;599.61;0.4206;2;4;0.0493;0.0000
+2026-02;Centro-Oeste;Esporte;Sem Campanha;266.58;146.58;0.5499;2;2;0.0472;0.0000
+2026-02;Centro-Oeste;Moda;Sem Campanha;3265.44;1617.44;0.4953;4;12;0.0307;0.2500
+2026-02;Centro-Oeste;Pet;Sem Campanha;229.44;108.44;0.4726;1;1;0.0020;0.0000
+2026-02;Nordeste;Beleza;Sem Campanha;187.37;105.37;0.5624;1;1;0.0133;0.0000
+2026-02;Nordeste;Casa;Sem Campanha;8466.49;3518.49;0.4156;16;28;0.0419;0.0625
+2026-02;Nordeste;Eletrônicos;Sem Campanha;3166.83;1327.83;0.4193;5;7;0.0284;0.0000
+2026-02;Nordeste;Escritório;Sem Campanha;3744.09;1690.09;0.4514;9;17;0.0541;0.1111
+2026-02;Nordeste;Esporte;Sem Campanha;1253.77;517.77;0.4130;3;4;0.0570;0.0000
+2026-02;Nordeste;Moda;Sem Campanha;2473.76;1207.76;0.4882;4;8;0.0296;0.0000
+2026-02;Nordeste;Pet;Sem Campanha;1626.53;710.53;0.4368;4;7;0.0428;0.0000
+2026-02;Sudeste;Beleza;Sem Campanha;2963.26;1485.26;0.5012;5;14;0.0468;0.0000
+2026-02;Sudeste;Casa;Não informado;318.85;133.85;0.4198;1;1;0.0335;0.0000
+2026-02;Sudeste;Casa;Sem Campanha;4731.00;2008.00;0.4244;11;17;0.0361;0.0000
+2026-02;Sudeste;Eletrônicos;Sem Campanha;10218.43;4242.43;0.4152;13;24;0.0394;0.0000
+2026-02;Sudeste;Escritório;Sem Campanha;2978.48;1228.48;0.4125;5;5;0.0328;0.2000
+2026-02;Sudeste;Esporte;Sem Campanha;2335.33;1071.33;0.4587;8;10;0.0425;0.0000
+2026-02;Sudeste;Moda;Sem Campanha;1901.88;889.88;0.4679;3;6;0.0674;0.0000
+2026-02;Sudeste;Pet;Sem Campanha;1790.76;822.76;0.4594;3;8;0.0263;0.0000
+2026-02;Sul;Beleza;Sem Campanha;1147.30;539.30;0.4701;4;5;0.0592;0.2500
+2026-02;Sul;Casa;Sem Campanha;3355.88;1353.88;0.4034;4;10;0.0517;0.0000
+2026-02;Sul;Eletrônicos;Sem Campanha;4666.64;1972.64;0.4227;9;14;0.0474;0.0000
+2026-02;Sul;Escritório;Sem Campanha;3104.40;1332.40;0.4292;8;10;0.0532;0.0000
+2026-02;Sul;Esporte;Sem Campanha;1823.08;899.08;0.4932;7;10;0.0298;0.1429
+2026-02;Sul;Moda;Sem Campanha;6913.73;3427.73;0.4958;9;24;0.0314;0.0000
+2026-02;Sul;Pet;Sem Campanha;2211.49;915.49;0.4140;6;9;0.0546;0.0000
+2026-03;Centro-Oeste;Beleza;Páscoa Digital;240.41;92.41;0.3844;1;1;0.1411;0.0000
+2026-03;Centro-Oeste;Beleza;Sem Campanha;797.99;403.99;0.5063;2;4;0.0607;0.0000
+2026-03;Centro-Oeste;Casa;Páscoa Digital;291.90;106.90;0.3662;1;1;0.1152;0.0000
+2026-03;Centro-Oeste;Casa;Sem Campanha;1788.53;745.53;0.4168;5;6;0.0433;0.0000
+2026-03;Centro-Oeste;Eletrônicos;Não informado;1767.53;552.53;0.3126;1;3;0.1582;0.0000
+2026-03;Centro-Oeste;Eletrônicos;Sem Campanha;1449.13;600.13;0.4141;3;4;0.0526;0.6667
+2026-03;Centro-Oeste;Escritório;Páscoa Digital;680.32;300.32;0.4414;2;4;0.1044;0.5000
+2026-03;Centro-Oeste;Escritório;Sem Campanha;1700.63;660.63;0.3885;1;2;0.0551;0.0000
+2026-03;Centro-Oeste;Esporte;Páscoa Digital;367.31;141.31;0.3847;1;1;0.0815;0.0000
+2026-03;Centro-Oeste;Esporte;Sem Campanha;1835.81;809.81;0.4411;3;9;0.0724;0.0000
+2026-03;Centro-Oeste;Esporte;Semana do Consumidor;117.30;55.30;0.4714;1;1;0.2175;0.0000
+2026-03;Centro-Oeste;Moda;Sem Campanha;4618.40;2234.40;0.4838;9;16;0.0514;0.0000
+2026-03;Centro-Oeste;Moda;Semana do Consumidor;290.59;114.59;0.3943;1;1;0.1695;0.0000
+2026-03;Centro-Oeste;Pet;Páscoa Digital;237.78;93.78;0.3944;1;1;0.0851;0.0000
+2026-03;Centro-Oeste;Pet;Sem Campanha;492.33;204.33;0.4150;2;2;0.0528;0.0000
+2026-03;Nordeste;Beleza;Sem Campanha;804.36;410.36;0.5102;3;4;0.0532;0.0000
+2026-03;Nordeste;Casa;Páscoa Digital;884.92;304.92;0.3446;1;2;0.1149;0.0000
+2026-03;Nordeste;Casa;Sem Campanha;3702.80;1499.80;0.4050;7;10;0.0430;0.0000
+2026-03;Nordeste;Casa;Semana do Consumidor;676.58;255.58;0.3778;2;3;0.1210;0.0000
+2026-03;Nordeste;Eletrônicos;Páscoa Digital;736.64;268.64;0.3647;1;3;0.1530;0.0000
+2026-03;Nordeste;Eletrônicos;Sem Campanha;6964.96;3034.96;0.4357;12;21;0.0283;0.0000
+2026-03;Nordeste;Escritório;Sem Campanha;3720.14;1684.14;0.4527;5;13;0.0258;0.0000
+2026-03;Nordeste;Escritório;Semana do Consumidor;430.25;166.25;0.3864;1;3;0.2028;0.0000
+2026-03;Nordeste;Esporte;Páscoa Digital;1219.43;479.43;0.3932;2;4;0.0965;0.0000
+2026-03;Nordeste;Esporte;Sem Campanha;2020.06;930.06;0.4604;4;7;0.0143;0.0000
+2026-03;Nordeste;Esporte;Semana do Consumidor;348.70;174.70;0.5010;1;3;0.1052;0.0000
+2026-03;Nordeste;Moda;Sem Campanha;2534.82;1256.82;0.4958;7;9;0.0322;0.0000
+2026-03;Nordeste;Pet;Sem Campanha;3628.41;1577.41;0.4347;8;16;0.0522;0.0000
+2026-03;Sudeste;Beleza;Páscoa Digital;324.62;160.62;0.4948;2;2;0.1453;0.0000
+2026-03;Sudeste;Beleza;Sem Campanha;897.46;487.46;0.5432;3;5;0.0548;0.3333
+2026-03;Sudeste;Beleza;Semana do Consumidor;147.82;65.82;0.4453;1;1;0.2216;0.0000
+2026-03;Sudeste;Casa;Sem Campanha;5373.90;2249.90;0.4187;11;14;0.0191;0.0000
+2026-03;Sudeste;Casa;Semana do Consumidor;178.65;60.65;0.3395;1;1;0.1876;0.0000
+2026-03;Sudeste;Eletrônicos;Páscoa Digital;979.75;355.75;0.3631;1;4;0.1551;0.0000
+2026-03;Sudeste;Eletrônicos;Sem Campanha;4663.92;2011.92;0.4314;9;16;0.0479;0.0000
+2026-03;Sudeste;Eletrônicos;Semana do Consumidor;813.63;285.63;0.3511;3;3;0.1609;0.0000
+2026-03;Sudeste;Escritório;Páscoa Digital;993.89;465.89;0.4688;2;6;0.0792;0.0000
+2026-03;Sudeste;Escritório;Sem Campanha;6722.29;2716.29;0.4041;7;11;0.0450;0.1429
+2026-03;Sudeste;Escritório;Semana do Consumidor;152.21;64.21;0.4219;1;1;0.1539;0.0000
+2026-03;Sudeste;Esporte;Páscoa Digital;793.64;425.64;0.5363;2;6;0.0975;0.0000
+2026-03;Sudeste;Esporte;Sem Campanha;1766.46;932.46;0.5279;7;11;0.0394;0.0000
+2026-03;Sudeste;Esporte;Semana do Consumidor;104.61;46.61;0.4456;1;1;0.1947;0.0000
+2026-03;Sudeste;Moda;Sem Campanha;332.20;156.20;0.4702;1;1;0.0506;0.0000
+2026-03;Sudeste;Moda;Semana do Consumidor;766.92;298.92;0.3898;2;3;0.1839;0.0000
+2026-03;Sudeste;Pet;Páscoa Digital;584.18;221.18;0.3786;2;3;0.1530;0.0000
+2026-03;Sudeste;Pet;Sem Campanha;2498.78;1058.78;0.4237;4;10;0.0386;0.0000
+2026-03;Sudeste;Pet;Semana do Consumidor;458.41;170.41;0.3717;1;2;0.1181;0.0000
+2026-03;Sul;Beleza;Sem Campanha;2238.51;1038.51;0.4639;4;9;0.0430;0.0000
+2026-03;Sul;Beleza;Semana do Consumidor;155.02;73.02;0.4710;1;1;0.1837;0.0000
+2026-03;Sul;Casa;Sem Campanha;2592.35;1049.35;0.4048;6;7;0.0432;0.0000
+2026-03;Sul;Casa;Semana do Consumidor;487.08;133.08;0.2732;2;3;0.2617;0.0000
+2026-03;Sul;Eletrônicos;Sem Campanha;4737.71;2007.71;0.4238;9;14;0.0445;0.0000
+2026-03;Sul;Escritório;Sem Campanha;1269.85;611.85;0.4818;4;7;0.0375;0.0000
+2026-03;Sul;Escritório;Semana do Consumidor;2869.96;789.96;0.2753;1;4;0.2027;0.0000
+2026-03;Sul;Esporte;Não informado;369.43;143.43;0.3882;1;1;0.0762;0.0000
+2026-03;Sul;Esporte;Sem Campanha;2324.19;1016.19;0.4372;5;8;0.0353;0.0000
+2026-03;Sul;Esporte;Semana do Consumidor;1069.10;437.10;0.4088;4;8;0.1834;0.0000
+2026-03;Sul;Moda;Páscoa Digital;576.55;246.55;0.4276;2;2;0.1392;0.0000
+2026-03;Sul;Moda;Sem Campanha;1211.58;611.58;0.5048;3;4;0.0147;0.0000
+2026-03;Sul;Moda;Semana do Consumidor;888.85;364.85;0.4105;3;4;0.1690;0.0000
+2026-03;Sul;Pet;Sem Campanha;1098.40;470.40;0.4283;3;5;0.0688;0.3333
+2026-03;Sul;Pet;Semana do Consumidor;1180.75;339.75;0.2877;2;6;0.2280;0.0000
+2026-04;Centro-Oeste;Beleza;Não informado;704.76;376.76;0.5346;1;4;0.0722;1.0000
+2026-04;Centro-Oeste;Beleza;Páscoa Digital;898.82;372.82;0.4148;2;4;0.1270;0.0000
+2026-04;Centro-Oeste;Beleza;Sem Campanha;266.83;118.83;0.4453;1;1;0.0467;0.0000
+2026-04;Centro-Oeste;Casa;Frete Turbo;1859.86;686.86;0.3693;3;5;0.0925;0.0000
+2026-04;Centro-Oeste;Casa;Sem Campanha;5578.16;2256.16;0.4045;8;16;0.0478;0.0000
+2026-04;Centro-Oeste;Eletrônicos;Frete Turbo;530.81;218.81;0.4122;1;2;0.0845;0.0000
+2026-04;Centro-Oeste;Eletrônicos;Páscoa Digital;2799.65;999.65;0.3571;2;7;0.1249;0.0000
+2026-04;Centro-Oeste;Eletrônicos;Sem Campanha;8994.03;3501.03;0.3893;7;17;0.0639;0.0000
+2026-04;Centro-Oeste;Escritório;Sem Campanha;710.10;358.10;0.5043;1;4;0.0132;0.0000
+2026-04;Centro-Oeste;Esporte;Sem Campanha;1574.82;810.82;0.5149;3;10;0.0450;0.0000
+2026-04;Centro-Oeste;Moda;Frete Turbo;212.43;96.43;0.4539;1;1;0.1145;0.0000
+2026-04;Centro-Oeste;Moda;Sem Campanha;2021.58;987.58;0.4885;3;6;0.0231;0.0000
+2026-04;Centro-Oeste;Pet;Frete Turbo;235.37;91.37;0.3882;1;1;0.0944;0.0000
+2026-04;Centro-Oeste;Pet;Sem Campanha;721.38;289.38;0.4011;1;3;0.0748;0.0000
+2026-04;Nordeste;Beleza;Frete Turbo;525.48;229.48;0.4367;1;2;0.0613;0.0000
+2026-04;Nordeste;Beleza;Páscoa Digital;773.62;329.62;0.4261;1;3;0.0787;1.0000
+2026-04;Nordeste;Casa;Frete Turbo;404.48;168.48;0.4165;2;2;0.0803;0.0000
+2026-04;Nordeste;Casa;Sem Campanha;3029.12;1278.12;0.4219;6;12;0.0501;0.0000
+2026-04;Nordeste;Eletrônicos;Frete Turbo;2288.20;938.20;0.4100;4;9;0.0917;0.0000
+2026-04;Nordeste;Eletrônicos;Sem Campanha;3444.30;1482.30;0.4304;7;13;0.0586;0.1429
+2026-04;Nordeste;Escritório;Frete Turbo;165.44;77.44;0.4681;1;1;0.0804;0.0000
+2026-04;Nordeste;Escritório;Sem Campanha;3496.01;1416.01;0.4050;3;4;0.0288;0.0000
+2026-04;Nordeste;Esporte;Frete Turbo;367.15;141.15;0.3844;1;1;0.0819;0.0000
+2026-04;Nordeste;Esporte;Sem Campanha;1602.96;786.96;0.4909;5;8;0.0339;0.0000
+2026-04;Nordeste;Moda;Frete Turbo;764.16;356.16;0.4661;2;3;0.0790;0.0000
+2026-04;Nordeste;Moda;Sem Campanha;2138.03;1048.03;0.4902;5;7;0.0279;0.0000
+2026-04;Nordeste;Pet;Frete Turbo;1074.47;469.47;0.4369;3;5;0.0653;0.0000
+2026-04;Nordeste;Pet;Sem Campanha;905.62;421.62;0.4656;1;4;0.0152;0.0000
+2026-04;Sudeste;Beleza;Páscoa Digital;166.68;84.68;0.5080;1;1;0.1223;0.0000
+2026-04;Sudeste;Beleza;Sem Campanha;1660.44;756.44;0.4556;3;7;0.0668;0.0000
+2026-04;Sudeste;Casa;Frete Turbo;2707.03;1021.03;0.3772;5;7;0.0790;0.0000
+2026-04;Sudeste;Casa;Sem Campanha;2245.09;915.09;0.4076;6;9;0.0719;0.3333
+2026-04;Sudeste;Eletrônicos;Frete Turbo;2906.70;1148.70;0.3952;4;7;0.0711;0.0000
+2026-04;Sudeste;Eletrônicos;Páscoa Digital;1213.62;481.62;0.3968;3;5;0.1138;0.0000
+2026-04;Sudeste;Eletrônicos;Sem Campanha;3142.83;1351.83;0.4301;6;10;0.0415;0.0000
+2026-04;Sudeste;Escritório;Frete Turbo;1340.60;556.60;0.4152;3;4;0.0688;0.0000
+2026-04;Sudeste;Escritório;Páscoa Digital;168.98;80.98;0.4792;1;1;0.0607;0.0000
+2026-04;Sudeste;Escritório;Sem Campanha;1972.51;896.51;0.4545;5;7;0.0232;0.0000
+2026-04;Sudeste;Esporte;Frete Turbo;352.79;126.79;0.3594;1;1;0.1178;0.0000
+2026-04;Sudeste;Esporte;Sem Campanha;1871.66;741.66;0.3963;5;5;0.0639;0.0000
+2026-04;Sudeste;Moda;Frete Turbo;2687.31;1207.31;0.4493;5;9;0.0979;0.0000
+2026-04;Sudeste;Moda;Páscoa Digital;298.56;144.56;0.4842;1;1;0.0667;0.0000
+2026-04;Sudeste;Moda;Sem Campanha;3066.41;1518.41;0.4952;8;11;0.0354;0.0000
+2026-04;Sudeste;Pet;Sem Campanha;258.42;114.42;0.4428;1;1;0.0057;0.0000
+2026-04;Sul;Beleza;Sem Campanha;1913.58;977.58;0.5109;5;9;0.0331;0.2000
+2026-04;Sul;Casa;Frete Turbo;500.41;197.41;0.3945;2;2;0.0898;0.0000
+2026-04;Sul;Casa;Sem Campanha;1912.39;780.39;0.4081;5;7;0.0622;0.2000
+2026-04;Sul;Eletrônicos;Frete Turbo;5109.85;1998.85;0.3912;6;12;0.0741;0.0000
+2026-04;Sul;Eletrônicos;Páscoa Digital;977.90;353.90;0.3619;2;4;0.1567;0.0000
+2026-04;Sul;Eletrônicos;Sem Campanha;5412.58;2397.58;0.4430;10;18;0.0262;0.0000
+2026-04;Sul;Escritório;Frete Turbo;959.26;351.26;0.3662;2;2;0.1116;0.0000
+2026-04;Sul;Escritório;Páscoa Digital;610.29;258.29;0.4232;1;4;0.1519;0.0000
+2026-04;Sul;Escritório;Sem Campanha;573.73;267.73;0.4666;2;3;0.0433;0.0000
+2026-04;Sul;Esporte;Frete Turbo;489.80;201.80;0.4120;2;2;0.1091;0.0000
+2026-04;Sul;Esporte;Páscoa Digital;1461.39;557.39;0.3814;1;4;0.0864;0.0000
+2026-04;Sul;Esporte;Sem Campanha;2612.86;1188.86;0.4550;3;10;0.0210;0.0000
+2026-04;Sul;Moda;Frete Turbo;330.03;154.03;0.4667;1;1;0.0568;0.0000
+2026-04;Sul;Moda;Sem Campanha;3586.55;1758.55;0.4903;5;12;0.0303;0.0000
+2026-04;Sul;Pet;Frete Turbo;206.54;85.54;0.4142;1;1;0.1016;0.0000
+2026-04;Sul;Pet;Sem Campanha;1246.29;526.29;0.4223;2;5;0.0409;0.0000

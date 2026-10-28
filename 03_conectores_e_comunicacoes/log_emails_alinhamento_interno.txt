@@ -1,0 +1,26 @@
+MODELOS DE E-MAIL PARA POPULAR GMAIL OU OUTLOOK
+
+E-mail 1
+Assunto: Alerta de ruptura - produtos com giro acelerado
+De: operacoes@novametrica.com
+Para: dados@novametrica.com
+Corpo:
+Pessoal, identificamos risco de ruptura para Smartwatch Move, Aspirador Compact e Jaqueta Corta-Vento. Esses itens apresentaram aumento de procura durante as últimas campanhas e o estoque atual exige acompanhamento. Precisamos cruzar vendas recentes, estoque disponível e calendário promocional antes de definir novas ações.
+
+---
+
+E-mail 2
+Assunto: Avaliação preliminar das campanhas de março
+De: marketing@novametrica.com
+Para: dados@novametrica.com
+Corpo:
+A Semana do Consumidor trouxe pico de pedidos em algumas categorias, especialmente eletrônicos e casa. Ainda não sabemos se a expansão de receita compensou a redução de margem. A diretoria quer uma análise que compare volume, desconto e retorno comercial.
+
+---
+
+E-mail 3
+Assunto: Dúvidas para a reunião executiva
+De: diretoria@novametrica.com
+Para: dados@novametrica.com
+Corpo:
+Para a próxima reunião, preciso de uma visão objetiva: categorias prioritárias, campanhas que merecem continuidade, riscos de estoque e ações recomendadas. O material deve ser claro para liderança e não apenas técnico.

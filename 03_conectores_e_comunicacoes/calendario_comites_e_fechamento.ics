@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NovaMetrica//Antigravity Gemini//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+BEGIN:STANDARD
+DTSTART:19700201T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:BRT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:novametrica-reuniao-estoque-20260603@curso.local
+DTSTAMP:20260514T120000Z
+DTSTART;TZID=America/Sao_Paulo:20260603T100000
+DTEND;TZID=America/Sao_Paulo:20260603T110000
+SUMMARY:NovaMétrica - Revisão de estoque crítico
+DESCRIPTION:Revisar itens com risco de ruptura e preparar perguntas para o time de dados.
+LOCATION:Reunião online
+END:VEVENT
+BEGIN:VEVENT
+UID:novametrica-campanhas-20260605@curso.local
+DTSTAMP:20260514T120000Z
+DTSTART;TZID=America/Sao_Paulo:20260605T143000
+DTEND;TZID=America/Sao_Paulo:20260605T153000
+SUMMARY:NovaMétrica - Avaliação das campanhas comerciais
+DESCRIPTION:Discutir desempenho de campanhas, descontos e impacto em margem.
+LOCATION:Reunião online
+END:VEVENT
+BEGIN:VEVENT
+UID:novametrica-diretoria-20260610@curso.local
+DTSTAMP:20260514T120000Z
+DTSTART;TZID=America/Sao_Paulo:20260610T090000
+DTEND;TZID=America/Sao_Paulo:20260610T100000
+SUMMARY:NovaMétrica - Prévia para diretoria
+DESCRIPTION:Apresentar achados preliminares de vendas, estoque e ações recomendadas.
+LOCATION:Sala Executiva
+END:VEVENT
+BEGIN:VEVENT
+UID:novametrica-entrega-20260612@curso.local
+DTSTAMP:20260514T120000Z
+DTSTART;TZID=America/Sao_Paulo:20260612T160000
+DTEND;TZID=America/Sao_Paulo:20260612T170000
+SUMMARY:NovaMétrica - Entrega final do diagnóstico
+DESCRIPTION:Reunião de fechamento do projeto com recomendações e próximos passos.
+LOCATION:Reunião online
+END:VEVENT
+END:VCALENDAR

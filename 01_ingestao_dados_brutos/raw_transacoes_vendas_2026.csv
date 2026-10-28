@@ -1,0 +1,725 @@
+﻿ID_Venda;Data_Venda;Canal;Regiao;Estado;Cidade;SKU;Produto;Categoria;Campanha;Origem_Campanha;Preco_Unitario;Quantidade;Desconto_Perc;Receita_Bruta;Valor_Desconto;Receita_Liquida;Custo_Total;Margem_Bruta;Forma_Pagamento;Status_Pedido;Prazo_Entrega_Dias;Devolvido;Avaliacao_Cliente
+NV-00001;21/01/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;ES-002;Luminária Desk;Escritório;Liquida Verão;Mídia paga;179.90;2;0.1092;359.80;39.29;320.51;176.00;144.51;Boleto;Entregue;7;Não;4
+NV-00002;06/01/2026;Loja Física;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0866;289.90;25.11;264.79;156.00;108.79;Boleto;Entregue;4;Não;2
+NV-00003;04/03/2026;E-commerce;Nordeste;PE;Recife;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;3;0.0754;689.70;52.00;637.70;363.00;274.70;Pix;Entregue;5;Não;4
+NV-00004;26/04/2026;Loja Física;Nordeste;CE;Fortaleza;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0348;899.90;31.32;868.58;520.00;348.58;Boleto;Entregue;8;Não;5
+NV-00005;12/04/2026;E-commerce;Nordeste;PE;Recife;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;4;0.0660;1319.60;87.09;1232.51;740.00;492.51;Cartão de crédito;Cancelado;;Não;
+NV-00006;19/03/2026;E-commerce;Sudeste;SP;São Paulo;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0424;329.90;13.99;315.91;185.00;130.91;Cartão de crédito;Entregue;2;Não;5
+NV-00007;11/03/2026;E-commerce;Sul;SC;Florianópolis;SP-002;Tapete Yoga Move;Esporte;Semana do Consumidor;CRM + Mídia paga;129.90;2;0.1550;259.80;40.27;219.53;116.00;103.53;Boleto;Entregue;6;Não;3
+NV-00008;22/04/2026;E-commerce;Sul;RS;Porto Alegre;CA-001;Cafeteira Aroma;Casa;Frete Turbo;CRM;329.90;1;0.1030;329.90;33.98;295.92;185.00;110.92;Cartão de crédito;Entregue;5;Não;3
+NV-00009;16/03/2026;Marketplace;Sudeste;MG;Belo Horizonte;SP-002;Tapete Yoga Move;Esporte;Semana do Consumidor;CRM + Mídia paga;129.90;1;0.1947;129.90;25.29;104.61;58.00;46.61;Boleto;Entregue;7;Não;5
+NV-00010;08/01/2026;E-commerce;Sul;PR;Curitiba;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0202;179.90;3.63;176.27;88.00;88.27;Cartão de crédito;Entregue;6;Não;2
+NV-00011;10/04/2026;E-commerce;Sul;PR;Curitiba;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;4;0.0564;959.60;54.12;905.48;464.00;441.48;Pix;Entregue;5;Não;4
+NV-00012;11/02/2026;Marketplace;Sul;RS;Porto Alegre;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0380;399.90;15.20;384.70;226.00;158.70;Cartão de crédito;Entregue;3;Não;4
+NV-00013;04/01/2026;E-commerce;Sul;SC;Florianópolis;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0217;219.90;4.77;215.13;118.00;97.13;Carteira digital;Entregue;7;Não;4
+NV-00014;05/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0343;219.90;7.54;212.36;118.00;94.36;Pix;Entregue;7;Não;5
+NV-00015;25/01/2026;E-commerce;Nordeste;CE;Fortaleza;BE-002;Kit Skincare Glow;Beleza;Liquida Verão;Mídia paga;189.90;1;0.1144;189.90;21.72;168.18;82.00;86.18;Carteira digital;Entregue;9;Não;4
+NV-00016;04/03/2026;E-commerce;Nordeste;BA;Salvador;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0085;399.90;3.40;396.50;226.00;170.50;Boleto;Entregue;6;Não;2
+NV-00017;27/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;2;0.0309;479.80;14.83;464.97;232.00;232.97;Boleto;Entregue;7;Não;5
+NV-00018;30/01/2026;Loja Física;Sul;RS;Porto Alegre;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0138;259.90;3.59;256.31;144.00;112.31;Boleto;Entregue;6;Não;2
+NV-00019;17/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;PT-001;Fonte PetFlow;Pet;Frete Turbo;CRM;259.90;1;0.0944;259.90;24.53;235.37;144.00;91.37;Pix;Entregue;3;Não;2
+NV-00020;24/02/2026;Marketplace;Sudeste;SP;São Paulo;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;2;0.0799;999.80;79.88;919.92;580.00;339.92;Boleto;Entregue;7;Não;4
+NV-00021;11/01/2026;E-commerce;Centro-Oeste;GO;Goiânia;MO-001;Mochila Urban;Moda;Liquida Verão;Mídia paga;239.90;1;0.1609;239.90;38.60;201.30;116.00;85.30;Pix;Entregue;7;Não;
+NV-00022;29/03/2026;E-commerce;Sul;SC;Florianópolis;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0315;499.90;15.75;484.15;290.00;194.15;Boleto;Em Separação;2;Não;
+NV-00023;24/04/2026;Loja Física;Sudeste;SP;São Paulo;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0088;219.90;1.94;217.96;118.00;99.96;Boleto;Entregue;3;Não;4
+NV-00024;04/03/2026;E-commerce;Nordeste;CE;Fortaleza;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;3;0.0222;719.70;15.98;703.72;348.00;355.72;Boleto;Entregue;4;Não;5
+NV-00025;18/02/2026;E-commerce;Nordeste;PE;Recife;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0764;179.90;13.74;166.16;88.00;78.16;Pix;Devolvido;5;Sim;3
+NV-00026;19/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;2;0.0542;439.80;23.84;415.96;236.00;179.96;Boleto;Devolvido;3;Sim;5
+NV-00027;04/04/2026;Loja Física;Nordeste;BA;Salvador;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;2;0.0016;699.80;1.12;698.68;352.00;346.68;Pix;Entregue;4;Não;4
+NV-00028;07/03/2026;E-commerce;Nordeste;BA;Salvador;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0012;289.90;0.35;289.55;156.00;133.55;Cartão de crédito;Cancelado;;Não;
+NV-00029;20/02/2026;Marketplace;Centro-Oeste;DF;Brasília;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0704;219.90;15.48;204.42;118.00;86.42;Pix;Entregue;10;Não;4
+NV-00030;02/04/2026;Marketplace;Sudeste;MG;Belo Horizonte;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0450;329.90;14.85;315.05;185.00;130.05;Pix;Entregue;2;Não;
+NV-00031;26/01/2026;E-commerce;Centro-Oeste;DF;Brasília;MO-001;Mochila Urban;Moda;Liquida Verão;Mídia paga;239.90;4;0.0882;959.60;84.64;874.96;464.00;410.96;Pix;Entregue;9;Não;3
+NV-00032;15/04/2026;E-commerce;Sudeste;SP;São Paulo;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0791;399.90;31.63;368.27;226.00;142.27;Pix;Entregue;4;Não;4
+NV-00033;18/04/2026;E-commerce;Sul;SC;Florianópolis;SP-001;Garrafa Térmica Pro;Esporte;Frete Turbo;CRM;149.90;1;0.0828;149.90;12.41;137.49;62.00;75.49;Carteira digital;Entregue;6;Não;1
+NV-00034;07/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0101;189.90;1.92;187.98;82.00;105.98;Cartão de crédito;Entregue;6;Não;5
+NV-00035;15/04/2026;E-commerce;Nordeste;PE;Recife;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;2;0.0738;579.80;42.79;537.01;312.00;225.01;Pix;Entregue;6;Não;3
+NV-00036;01/02/2026;Loja Física;Sul;SC;Florianópolis;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;3;0.0507;539.70;27.36;512.34;264.00;248.34;Carteira digital;Entregue;3;Não;5
+NV-00037;13/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;3;0.0076;1499.70;11.40;1488.30;870.00;618.30;Boleto;Entregue;6;Não;5
+NV-00038;29/01/2026;Marketplace;Sudeste;SP;São Paulo;SP-003;Halter Ajustável;Esporte;Liquida Verão;Mídia paga;399.90;1;0.1377;399.90;55.07;344.83;226.00;118.83;Carteira digital;Entregue;3;Não;4
+NV-00039;04/02/2026;E-commerce;Centro-Oeste;DF;Brasília;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;3;0.0161;719.70;11.59;708.11;348.00;360.11;Pix;Entregue;7;Não;5
+NV-00040;15/04/2026;E-commerce;Sudeste;MG;Belo Horizonte;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;3;0.0745;1079.70;80.44;999.26;594.00;405.26;Pix;Entregue;6;Não;4
+NV-00041;29/03/2026;Loja Física;Centro-Oeste;DF;Brasília;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0014;319.90;0.45;319.45;154.00;165.45;Pix;Entregue;9;Não;4
+NV-00042;24/03/2026;E-commerce;Sul;RS;Porto Alegre;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0183;239.90;4.39;235.51;116.00;119.51;Cartão de crédito;Entregue;3;Não;
+NV-00043;24/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0273;499.90;13.65;486.25;290.00;196.25;Cartão de crédito;Entregue;5;Não;5
+NV-00044;30/04/2026;Loja Física;Sudeste;MG;Belo Horizonte;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;2;0.0174;399.80;6.96;392.84;204.00;188.84;Cartão de crédito;Cancelado;;Não;
+NV-00045;10/04/2026;Loja Física;Nordeste;PE;Recife;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0100;239.90;2.40;237.50;116.00;121.50;Cartão de crédito;Entregue;8;Não;5
+NV-00046;30/03/2026;E-commerce;Sul;RS;Porto Alegre;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0021;499.90;1.05;498.85;290.00;208.85;Carteira digital;Entregue;6;Não;
+NV-00047;10/02/2026;E-commerce;Nordeste;CE;Fortaleza;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;2;0.3500;439.80;153.93;285.87;236.00;49.87;Carteira digital;Entregue;5;Não;5
+NV-00048;12/03/2026;E-commerce;Sul;SC;Florianópolis;PT-002;Cama PetCloud;Pet;Semana do Consumidor;CRM + Mídia paga;229.90;1;0.1543;229.90;35.47;194.43;121.00;73.43;Carteira digital;Entregue;3;Não;3
+NV-00049;19/02/2026;Loja Física;Sudeste;MG;Belo Horizonte;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0445;319.90;14.24;305.66;154.00;151.66;Carteira digital;Entregue;5;Não;4
+NV-00050;23/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;3;0.0748;779.70;58.32;721.38;432.00;289.38;Cartão de crédito;Entregue;9;Não;5
+NV-00051;19/02/2026;Marketplace;Sudeste;SP;São Paulo;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;4;0.0304;759.60;23.09;736.51;328.00;408.51;Carteira digital;Entregue;3;Não;5
+NV-00052;04/03/2026;Marketplace;Nordeste;CE;Fortaleza;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0110;499.80;5.50;494.30;264.00;230.30;Boleto;Entregue;7;Não;1
+NV-00053;05/04/2026;E-commerce;Sul;RS;Porto Alegre;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0284;189.90;5.39;184.51;82.00;102.51;Boleto;Entregue;4;Não;5
+NV-00054;19/01/2026;E-commerce;Centro-Oeste;DF;Brasília;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;4;0.0541;999.60;54.08;945.52;528.00;417.52;Boleto;Entregue;9;Não;2
+NV-00055;16/04/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;EL-003;Caixa de Som Orbit;Eletrônicos;Frete Turbo;CRM;359.90;2;0.1100;719.80;79.18;640.62;396.00;244.62;Boleto;Entregue;7;Não;4
+NV-00056;20/04/2026;E-commerce;Sul;PR;Curitiba;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;3;0.0485;779.70;37.82;741.88;432.00;309.88;Cartão de crédito;Entregue;2;Não;5
+NV-00057;25/01/2026;Loja Física;Nordeste;CE;Fortaleza;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0092;359.90;3.31;356.59;198.00;158.59;Boleto;Entregue;7;Não;4
+NV-00058;05/04/2026;E-commerce;Sudeste;SP;São Paulo;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0255;359.80;9.17;350.63;176.00;174.63;Cartão de crédito;Entregue;4;Não;5
+NV-00059;28/04/2026;E-commerce;Nordeste;CE;Fortaleza;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;3;0.0709;749.70;53.15;696.55;396.00;300.55;Cartão de crédito;Devolvido;5;Sim;5
+NV-00060;09/02/2026;Loja Física;Nordeste;PE;Recife;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0751;129.90;9.76;120.14;58.00;62.14;Cartão de crédito;Entregue;3;Não;3
+NV-00061;28/02/2026;E-commerce;Sul;RS;Porto Alegre;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0047;359.90;1.69;358.21;198.00;160.21;Boleto;Entregue;5;Não;5
+NV-00062;28/01/2026;Marketplace;Nordeste;BA;Salvador;SP-002;Tapete Yoga Move;Esporte;Liquida Verão;Mídia paga;129.90;1;0.0969;129.90;12.59;117.31;58.00;59.31;Carteira digital;Entregue;3;Não;4
+NV-00063;09/04/2026;E-commerce;Centro-Oeste;DF;Brasília;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0112;289.90;3.25;286.65;156.00;130.65;Cartão de crédito;Entregue;7;Não;5
+NV-00064;21/01/2026;E-commerce;Nordeste;BA;Salvador;EL-002;Fone Pulse;Eletrônicos;Liquida Verão;Mídia paga;249.90;4;0.1697;999.60;169.63;829.97;528.00;301.97;Cartão de crédito;Entregue;5;Não;5
+NV-00065;09/01/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;3;0.0745;389.70;29.03;360.67;174.00;186.67;Cartão de crédito;Entregue;3;Não;5
+NV-00066;21/03/2026;E-commerce;Sul;RS;Porto Alegre;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;3;0.0788;689.70;54.35;635.35;363.00;272.35;Cartão de crédito;Entregue;5;Não;5
+NV-00067;21/02/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0456;219.90;10.03;209.87;118.00;91.87;Cartão de crédito;Entregue;6;Não;5
+NV-00068;23/04/2026;E-commerce;Nordeste;CE;Fortaleza;CA-002;Liquidificador Blend;Casa;Frete Turbo;CRM;219.90;1;0.0618;219.90;13.59;206.31;118.00;88.31;Carteira digital;Entregue;3;Não;4
+NV-00069;08/01/2026;Loja Física;Sul;RS;Porto Alegre;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0271;129.90;3.52;126.38;58.00;68.38;Cartão de crédito;Entregue;3;Não;3
+NV-00070;20/01/2026;E-commerce;Nordeste;BA;Salvador;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0016;499.80;0.80;499.00;264.00;235.00;Cartão de crédito;Entregue;4;Não;4
+NV-00071;14/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;PT-001;Fonte PetFlow;Pet;Semana do Consumidor;CRM + Mídia paga;259.90;2;0.1181;519.80;61.39;458.41;288.00;170.41;Carteira digital;Entregue;7;Não;1
+NV-00072;08/04/2026;Loja Física;Sudeste;SP;São Paulo;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0136;699.90;9.52;690.38;405.00;285.38;Pix;Entregue;2;Não;2
+NV-00073;19/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;2;0.0417;659.80;27.51;632.29;370.00;262.29;Cartão de crédito;Entregue;3;Não;3
+NV-00074;18/04/2026;E-commerce;Sudeste;MG;Belo Horizonte;MO-003;Tênis Casual City;Moda;Frete Turbo;CRM;349.90;1;0.1080;349.90;37.79;312.11;176.00;136.11;Cartão de crédito;Em Separação;2;Não;
+NV-00075;04/01/2026;Loja Física;Sudeste;MG;Belo Horizonte;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0432;279.90;12.09;267.81;148.00;119.81;Cartão de crédito;Entregue;5;Não;
+NV-00076;11/01/2026;E-commerce;Nordeste;BA;Salvador;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;3;0.0358;1049.70;37.58;1012.12;528.00;484.12;Boleto;Entregue;4;Não;
+NV-00077;04/03/2026;E-commerce;Sul;PR;Curitiba;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0745;249.90;18.62;231.28;132.00;99.28;Boleto;Entregue;5;Não;3
+NV-00078;13/01/2026;E-commerce;Centro-Oeste;DF;Brasília;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0069;249.90;1.72;248.18;132.00;116.18;Carteira digital;Entregue;7;Não;4
+NV-00079;16/02/2026;E-commerce;Sul;PR;Curitiba;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;5;0.0184;1599.50;29.43;1570.07;770.00;800.07;Pix;Em Separação;6;Não;
+NV-00080;11/01/2026;Marketplace;Sul;SC;Florianópolis;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0631;179.90;11.35;168.55;88.00;80.55;Boleto;Devolvido;5;Sim;4
+NV-00081;05/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;EL-001;Smartwatch Move;Eletrônicos;Páscoa Digital;Social + E-mail;699.90;2;0.0973;1399.80;136.20;1263.60;810.00;453.60;Pix;Entregue;8;Não;5
+NV-00082;06/03/2026;Loja Física;Sul;RS;Porto Alegre;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0313;129.90;4.07;125.83;58.00;67.83;Cartão de crédito;Entregue;7;Não;2
+NV-00083;12/01/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;ES-003;Teclado Silent;Escritório;Liquida Verão;Mídia paga;199.90;2;0.1659;399.80;66.33;333.47;204.00;129.47;Pix;Entregue;5;Não;
+NV-00084;23/02/2026;E-commerce;Nordeste;PE;Recife;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0178;399.90;7.12;392.78;226.00;166.78;Cartão de crédito;Entregue;10;Não;1
+NV-00085;27/01/2026;E-commerce;Centro-Oeste;DF;Brasília;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0528;319.90;16.89;303.01;154.00;149.01;Carteira digital;Entregue;5;Não;4
+NV-00086;16/02/2026;Marketplace;Centro-Oeste;GO;Goiânia;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0401;899.90;36.09;863.81;520.00;343.81;Boleto;Entregue;10;Não;5
+NV-00087;31/03/2026;Loja Física;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;3;0.0366;869.70;31.83;837.87;468.00;369.87;Carteira digital;Cancelado;;Não;
+NV-00088;14/03/2026;Ecommerce;Nordeste;CE;Fortaleza;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0122;499.90;6.10;493.80;290.00;203.80;Boleto;Entregue;7;Não;4
+NV-00089;21/01/2026;Loja Física;Sudeste;SP;São Paulo;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0394;499.90;19.70;480.20;290.00;190.20;Boleto;Entregue;5;Não;4
+NV-00090;22/04/2026;Marketplace;Nordeste;BA;Salvador;PT-002;Cama PetCloud;Pet;Frete Turbo;CRM;229.90;1;0.0463;229.90;10.64;219.26;121.00;98.26;Carteira digital;Entregue;6;Não;5
+NV-00091;13/01/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;ES-003;Teclado Silent;Escritório;Liquida Verão;Mídia paga;199.90;2;0.1234;399.80;49.34;350.46;204.00;146.46;Carteira digital;Entregue;2;Não;3
+NV-00092;27/03/2026;E-commerce;Centro-Oeste;DF;Brasília;ES-002;Luminária Desk;Escritório;Páscoa Digital;Social + E-mail;179.90;2;0.0698;359.80;25.11;334.69;176.00;158.69;Boleto;Entregue;8;Não;3
+NV-00093;17/02/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;2;0.0800;719.80;57.58;662.22;396.00;266.22;Cartão de crédito;Entregue;4;Não;5
+NV-00094;17/01/2026;Marketplace;Nordeste;PE;Recife;CA-002;Liquidificador Blend;Casa;Liquida Verão;Mídia paga;219.90;1;0.0823;219.90;18.10;201.80;118.00;83.80;Carteira digital;Em Separação;5;Não;
+NV-00095;06/01/2026;Loja Física;Sul;SC;Florianópolis;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0743;129.90;9.65;120.25;58.00;62.25;Cartão de crédito;Entregue;2;Não;5
+NV-00096;30/04/2026;Loja Física;Sudeste;MG;Belo Horizonte;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;3;0.0100;719.70;7.20;712.50;348.00;364.50;Cartão de crédito;Entregue;7;Não;
+NV-00097;27/01/2026;E-commerce;Centro-Oeste;GO;Goiânia;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0096;699.90;6.72;693.18;405.00;288.18;Cartão de crédito;Entregue;8;Não;5
+NV-00098;01/03/2026;Loja Física;Nordeste;PE;Recife;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0748;229.90;17.20;212.70;121.00;91.70;Carteira digital;Cancelado;;Não;
+NV-00099;18/01/2026;Loja Física;Nordeste;PE;Recife;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;4;0.0690;599.60;41.37;558.23;248.00;310.23;Pix;Entregue;3;Não;2
+NV-00100;02/02/2026;Marketplace;Sul;PR;Curitiba;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0384;289.90;11.13;278.77;156.00;122.77;Boleto;Entregue;5;Não;1
+NV-00101;02/04/2026;E-commerce;Sul;PR;Curitiba;EL-004;Webcam Pro;Eletrônicos;Páscoa Digital;Social + E-mail;289.90;2;0.1567;579.80;90.85;488.95;312.00;176.95;Boleto;Entregue;7;Não;4
+NV-00102;05/01/2026;Loja Física;Sudeste;SP;São Paulo;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;3;0.0519;2099.70;108.97;1990.73;1215.00;775.73;Pix;Entregue;6;Não;5
+NV-00103;31/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;2;0.0535;259.80;13.90;245.90;116.00;129.90;Carteira digital;Entregue;7;Não;3
+NV-00104;11/01/2026;Loja Física;Nordeste;CE;Fortaleza;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0553;239.90;13.27;226.63;116.00;110.63;Carteira digital;Em Separação;6;Não;
+NV-00105;22/02/2026;E-commerce;Sul;PR;Curitiba;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0402;199.90;8.04;191.86;102.00;89.86;Cartão de crédito;Em Separação;7;Não;
+NV-00106;02/01/2026;E-commerce;Nordeste;CE;Fortaleza;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0219;129.90;2.84;127.06;58.00;69.06;Carteira digital;Entregue;7;Não;5
+NV-00107;08/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0578;189.90;10.98;178.92;82.00;96.92;Pix;Entregue;4;Não;5
+NV-00108;11/02/2026;Marketplace;Centro-Oeste;GO;Goiânia;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0733;219.90;16.12;203.78;118.00;85.78;Boleto;Entregue;8;Não;3
+NV-00109;06/03/2026;Loja Física;Sul;SC;Florianópolis;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0627;499.80;31.34;468.46;264.00;204.46;Pix;Entregue;7;Não;5
+NV-00110;28/03/2026;E-commerce;Sudeste;SP;São Paulo;SP-001;Garrafa Térmica Pro;Esporte;Páscoa Digital;Social + E-mail;149.90;5;0.1021;749.50;76.52;672.98;310.00;362.98;Boleto;Cancelado;;Não;
+NV-00111;01/01/2026;Marketplace;Nordeste;PE;Recife;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0708;129.90;9.20;120.70;58.00;62.70;Pix;Entregue;7;Não;4
+NV-00112;01/02/2026;E-commerce;Sul;PR;Curitiba;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0335;129.90;4.35;125.55;58.00;67.55;Cartão de crédito;Entregue;7;Não;5
+NV-00113;02/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0629;129.90;8.17;121.73;58.00;63.73;Cartão de crédito;Cancelado;;Não;
+NV-00114;30/03/2026;Loja Física;Sul;SC;Florianópolis;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;2;0.0737;379.80;27.99;351.81;164.00;187.81;Boleto;Entregue;7;Não;2
+NV-00115;05/02/2026;Loja Física;Sul;PR;Curitiba;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0610;149.90;9.14;140.76;62.00;78.76;Pix;Em Separação;3;Não;
+NV-00116;29/04/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0583;399.90;23.31;376.59;226.00;150.59;Pix;Entregue;2;Não;5
+NV-00117;03/03/2026;Loja Física;Nordeste;CE;Fortaleza;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0509;289.90;14.76;275.14;156.00;119.14;Cartão de crédito;Entregue;7;Não;4
+NV-00118;23/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0507;219.90;11.15;208.75;118.00;90.75;Pix;Entregue;4;Não;4
+NV-00119;20/03/2026;Loja Física;Nordeste;PE;Recife;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0703;279.90;19.68;260.22;148.00;112.22;Boleto;Entregue;4;Não;
+NV-00120;15/02/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;2;0.0086;719.80;6.19;713.61;396.00;317.61;Cartão de crédito;Entregue;5;Não;5
+NV-00121;14/01/2026;Marketplace;Nordeste;BA;Salvador;MO-002;Jaqueta Corta-Vento;Moda;Liquida Verão;Mídia paga;319.90;1;0.1414;319.90;45.23;274.67;154.00;120.67;Cartão de crédito;Entregue;8;Não;4
+NV-00122;22/02/2026;E-commerce;Nordeste;BA;Salvador;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0291;699.90;20.37;679.53;405.00;274.53;Pix;Entregue;6;Não;3
+NV-00123;03/02/2026;E-commerce;Sul;RS;Porto Alegre;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0321;129.90;4.17;125.73;58.00;67.73;Boleto;Entregue;5;Não;4
+NV-00124;23/02/2026;E-commerce;Sudeste;SP;São Paulo;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;5;0.0266;1099.50;29.25;1070.25;590.00;480.25;Boleto;Entregue;4;Não;5
+NV-00125;19/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0167;149.90;2.50;147.40;62.00;85.40;Carteira digital;Entregue;2;Não;4
+NV-00126;11/01/2026;E-commerce;Nordeste;BA;Salvador;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0512;179.90;9.21;170.69;88.00;82.69;Boleto;Entregue;9;Não;5
+NV-00127;11/02/2026;Marketplace;Centro-Oeste;DF;Brasília;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;4;0.0234;959.60;22.45;937.15;464.00;473.15;Carteira digital;Entregue;8;Não;
+NV-00128;13/01/2026;E-commerce;Sul;SC;Florianópolis;SP-002;Tapete Yoga Move;Esporte;Liquida Verão;Mídia paga;129.90;1;0.1087;129.90;14.12;115.78;58.00;57.78;Cartão de crédito;Entregue;5;Não;4
+NV-00129;23/03/2026;E-commerce;Sul;SC;Florianópolis;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0211;179.90;3.80;176.10;88.00;88.10;Boleto;Entregue;3;Não;4
+NV-00130;06/01/2026;Loja Física;Centro-Oeste;DF;Brasília;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;2;0.0238;639.80;15.23;624.57;308.00;316.57;Carteira digital;Entregue;5;Não;4
+NV-00131;13/04/2026;E-commerce;Sul;SC;Florianópolis;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;4;0.0698;519.60;36.27;483.33;232.00;251.33;Boleto;Entregue;4;Não;5
+NV-00132;22/02/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0377;279.90;10.55;269.35;148.00;121.35;Pix;Entregue;5;Não;5
+NV-00133;23/02/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0582;899.90;52.37;847.53;520.00;327.53;Pix;Entregue;4;Não;1
+NV-00134;03/01/2026;Loja Física;Nordeste;CE;Fortaleza;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;3;0.0654;1079.70;70.61;1009.09;594.00;415.09;Carteira digital;Em Separação;7;Não;
+NV-00135;25/03/2026;Loja Física;Nordeste;PE;Recife;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0780;249.90;19.49;230.41;132.00;98.41;Boleto;Entregue;6;Não;4
+NV-00136;21/01/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0774;229.90;17.79;212.11;121.00;91.11;Boleto;Entregue;4;Não;3
+NV-00137;08/03/2026;Loja Física;Sul;RS;Porto Alegre;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;2;0.0190;1399.80;26.60;1373.20;810.00;563.20;Boleto;Entregue;6;Não;5
+NV-00138;27/02/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0317;149.90;4.75;145.15;62.00;83.15;Boleto;Entregue;3;Não;4
+NV-00139;06/03/2026;Loja Física;Nordeste;PE;Recife;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0083;289.90;2.41;287.49;156.00;131.49;Boleto;Entregue;7;Não;4
+NV-00140;21/04/2026;E-commerce;Sudeste;SP;São Paulo;MO-001;Mochila Urban;Moda;Frete Turbo;CRM;239.90;1;0.0959;239.90;23.01;216.89;116.00;100.89;Boleto;Entregue;5;Não;5
+NV-00141;16/04/2026;E-commerce;Centro-Oeste;DF;Brasília;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0550;329.90;18.14;311.76;185.00;126.76;Boleto;Cancelado;;Não;
+NV-00142;18/02/2026;Loja Física;Sul;SC;Florianópolis;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0748;899.90;67.31;832.59;520.00;312.59;Pix;Entregue;7;Não;5
+NV-00143;02/01/2026;Loja Física;Sul;PR;Curitiba;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;4;0.0130;1119.60;14.55;1105.05;592.00;513.05;Cartão de crédito;Em Separação;4;Não;
+NV-00144;12/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;3;0.0221;749.70;16.57;733.13;396.00;337.13;Boleto;Cancelado;;Não;
+NV-00145;08/01/2026;Marketplace;Sudeste;MG;Belo Horizonte;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0012;219.90;0.26;219.64;118.00;101.64;Cartão de crédito;Entregue;5;Não;4
+NV-00146;20/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0337;149.90;5.05;144.85;62.00;82.85;Carteira digital;Entregue;10;Não;5
+NV-00147;18/03/2026;Loja Física;Sul;RS;Porto Alegre;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;2;0.0329;719.80;23.68;696.12;396.00;300.12;Carteira digital;Entregue;3;Não;5
+NV-00148;26/01/2026;E-commerce;Nordeste;CE;Fortaleza;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0131;499.90;6.55;493.35;290.00;203.35;Pix;Entregue;6;Não;3
+NV-00149;16/01/2026;Loja Física;Nordeste;PE;Recife;CA-003;Aspirador Compact;Casa;Liquida Verão;Mídia paga;499.90;2;0.0837;999.80;83.68;916.12;580.00;336.12;Boleto;Entregue;9;Não;3
+NV-00150;07/01/2026;E-commerce;Centro-Oeste;DF;Brasília;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;3;0.0614;569.70;34.98;534.72;246.00;288.72;Boleto;Entregue;7;Não;4
+NV-00151;08/02/2026;Loja Física;Nordeste;PE;Recife;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0781;359.80;28.10;331.70;176.00;155.70;Boleto;Entregue;5;Não;4
+NV-00152;05/02/2026;E-commerce;Sudeste;SP;São Paulo;CA-001;Cafeteira Aroma;Casa;;Orgânico;329.90;1;0.0335;329.90;11.05;318.85;185.00;133.85;Cartão de crédito;Entregue;6;Não;5
+NV-00153;09/01/2026;E-commerce;Sul;SC;Florianópolis;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;2;0.0571;659.80;37.67;622.13;370.00;252.13;Pix;Entregue;4;Não;4
+NV-00154;12/02/2026;E-commerce;Nordeste;PE;Recife;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;5;0.0277;1749.50;48.46;1701.04;880.00;821.04;Boleto;Entregue;10;Não;4
+NV-00155;19/03/2026;E-commerce;Nordeste;CE;Fortaleza;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;3;0.0311;689.70;21.45;668.25;363.00;305.25;Boleto;Cancelado;;Não;
+NV-00156;14/01/2026;Marketplace;Sul;RS;Porto Alegre;EL-003;Caixa de Som Orbit;Eletrônicos;;Mídia paga;359.90;1;0.0995;359.90;35.81;324.09;198.00;126.09;Pix;Entregue;5;Não;4
+NV-00157;19/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;4;0.0132;719.60;9.50;710.10;352.00;358.10;Boleto;Entregue;6;Não;3
+NV-00158;10/03/2026;Loja Física;Centro-Oeste;DF;Brasília;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;3;0.0651;959.70;62.48;897.22;462.00;435.22;Cartão de crédito;Entregue;6;Não;4
+NV-00159;22/01/2026;E-commerce;Sul;RS;Porto Alegre;SP-002;Tapete Yoga Move;Esporte;Liquida Verão;Mídia paga;129.90;1;0.0865;129.90;11.24;118.66;58.00;60.66;Pix;Entregue;2;Não;3
+NV-00160;28/04/2026;E-commerce;Nordeste;CE;Fortaleza;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0617;149.90;9.25;140.65;62.00;78.65;Boleto;Entregue;9;Não;4
+NV-00161;12/04/2026;Loja Física;Sul;RS;Porto Alegre;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;4;0.0055;1399.60;7.70;1391.90;704.00;687.90;Boleto;Entregue;4;Não;5
+NV-00162;28/04/2026;E-commerce;Sul;RS;Porto Alegre;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;2;0.0384;639.80;24.57;615.23;308.00;307.23;Cartão de crédito;Entregue;2;Não;5
+NV-00163;05/02/2026;Marketplace;Sudeste;MG;Belo Horizonte;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0228;289.90;6.61;283.29;156.00;127.29;Cartão de crédito;Entregue;4;Não;5
+NV-00164;16/03/2026;E-commerce;Nordeste;BA;Salvador;ES-002;Luminária Desk;Escritório;Semana do Consumidor;CRM + Mídia paga;179.90;3;0.2028;539.70;109.45;430.25;264.00;166.25;Carteira digital;Entregue;7;Não;4
+NV-00165;08/02/2026;Marketplace;Sul;PR;Curitiba;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;3;0.0687;779.70;53.57;726.13;432.00;294.13;Boleto;Entregue;6;Não;4
+NV-00166;18/03/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0483;149.90;7.24;142.66;62.00;80.66;Boleto;Entregue;2;Não;3
+NV-00167;03/02/2026;E-commerce;Sul;SC;Florianópolis;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;4;0.0223;519.60;11.59;508.01;232.00;276.01;Carteira digital;Devolvido;6;Sim;5
+NV-00168;04/03/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;2;0.0629;1799.80;113.21;1686.59;1040.00;646.59;Boleto;Devolvido;6;Sim;2
+NV-00169;21/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0749;399.90;29.95;369.95;226.00;143.95;Carteira digital;Em Separação;5;Não;
+NV-00170;09/03/2026;Loja Física;Centro-Oeste;DF;Brasília;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0415;699.90;29.05;670.85;405.00;265.85;Cartão de crédito;Devolvido;10;Sim;4
+NV-00171;30/04/2026;E-commerce;Sul;PR;Curitiba;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0033;279.90;0.92;278.98;148.00;130.98;Cartão de crédito;Entregue;2;Não;
+NV-00172;16/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0542;279.90;15.17;264.73;148.00;116.73;Pix;Entregue;7;Não;5
+NV-00173;24/02/2026;E-commerce;Sul;RS;Porto Alegre;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0751;499.80;37.53;462.27;264.00;198.27;Cartão de crédito;Entregue;6;Não;
+NV-00174;24/01/2026;E-commerce;Centro-Oeste;GO;Goiânia;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0547;899.90;49.22;850.68;520.00;330.68;Pix;Entregue;6;Não;5
+NV-00175;29/03/2026;Loja Física;Sul;SC;Florianópolis;SP-003;Halter Ajustável;Esporte;;Social + E-mail;399.90;1;0.0762;399.90;30.47;369.43;226.00;143.43;Boleto;Entregue;4;Não;3
+NV-00176;27/02/2026;E-commerce;Sul;SC;Florianópolis;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0758;289.90;21.97;267.93;156.00;111.93;Pix;Entregue;3;Não;4
+NV-00177;24/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;3;0.0203;1079.70;21.92;1057.78;594.00;463.78;Pix;Entregue;4;Não;5
+NV-00178;16/01/2026;E-commerce;Sul;RS;Porto Alegre;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0135;259.90;3.51;256.39;144.00;112.39;Boleto;Entregue;2;Não;4
+NV-00179;04/02/2026;Marketplace;Sudeste;MG;Belo Horizonte;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0459;129.90;5.96;123.94;58.00;65.94;Carteira digital;Entregue;7;Não;
+NV-00180;12/04/2026;Marketplace;Nordeste;CE;Fortaleza;EL-002;Fone Pulse;Eletrônicos;Frete Turbo;CRM;249.90;4;0.1017;999.60;101.66;897.94;528.00;369.94;Cartão de crédito;Entregue;7;Não;4
+NV-00181;21/03/2026;Marketplace;Centro-Oeste;GO;Goiânia;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0122;329.90;4.02;325.88;185.00;140.88;Boleto;Entregue;4;Não;4
+NV-00182;14/04/2026;Loja Física;Nordeste;BA;Salvador;PT-002;Cama PetCloud;Pet;Frete Turbo;CRM;229.90;1;0.0647;229.90;14.87;215.03;121.00;94.03;Carteira digital;Entregue;5;Não;1
+NV-00183;04/03/2026;Marketplace;Sul;PR;Curitiba;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;2;0.0567;579.80;32.87;546.93;312.00;234.93;Pix;Entregue;4;Não;4
+NV-00184;06/02/2026;Loja Física;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;3;0.0313;659.70;20.65;639.05;354.00;285.05;Carteira digital;Devolvido;4;Sim;4
+NV-00185;28/04/2026;Marketplace;Sul;PR;Curitiba;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0474;189.90;9.00;180.90;82.00;98.90;Carteira digital;Entregue;5;Não;5
+NV-00186;28/01/2026;E-commerce;Nordeste;BA;Salvador;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;2;0.0229;579.80;13.28;566.52;312.00;254.52;Cartão de crédito;Entregue;4;Não;4
+NV-00187;07/03/2026;Loja Física;Nordeste;BA;Salvador;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0053;289.90;1.54;288.36;156.00;132.36;Cartão de crédito;Entregue;8;Não;4
+NV-00188;07/01/2026;E-commerce;Sudeste;SP;São Paulo;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0666;249.90;16.64;233.26;132.00;101.26;Carteira digital;Entregue;3;Não;4
+NV-00189;18/02/2026;Marketplace;Sul;SC;Florianópolis;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0018;179.90;0.32;179.58;88.00;91.58;Carteira digital;Entregue;5;Não;4
+NV-00190;07/01/2026;E-commerce;Sul;RS;Porto Alegre;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0282;239.90;6.77;233.13;116.00;117.13;Cartão de crédito;Entregue;2;Não;4
+NV-00191;26/04/2026;E-commerce;Sul;RS;Porto Alegre;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0058;149.90;0.87;149.03;62.00;87.03;Cartão de crédito;Entregue;3;Não;4
+NV-00192;12/04/2026;Marketplace;Sudeste;MG;Belo Horizonte;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0412;249.90;10.30;239.60;132.00;107.60;Cartão de crédito;Entregue;5;Não;4
+NV-00193;05/01/2026;E-commerce;Nordeste;PE;Recife;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0205;359.80;7.38;352.42;176.00;176.42;Boleto;Entregue;10;Não;5
+NV-00194;29/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0563;319.90;18.01;301.89;154.00;147.89;Boleto;Entregue;5;Não;5
+NV-00195;18/03/2026;E-commerce;Sul;RS;Porto Alegre;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0763;329.90;25.17;304.73;185.00;119.73;Cartão de crédito;Entregue;5;Não;5
+NV-00196;16/01/2026;Marketplace;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Liquida Verão;Mídia paga;289.90;1;0.1291;289.90;37.43;252.47;156.00;96.47;Boleto;Entregue;2;Não;4
+NV-00197;21/03/2026;E-commerce;Sul;RS;Porto Alegre;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0665;279.90;18.61;261.29;148.00;113.29;Pix;Entregue;3;Não;4
+NV-00198;08/04/2026;Marketplace;Sul;SC;Florianópolis;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0637;349.90;22.29;327.61;176.00;151.61;Pix;Entregue;4;Não;2
+NV-00199;10/02/2026;Loja Física;Sudeste;SP;São Paulo;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0046;499.80;2.30;497.50;264.00;233.50;Cartão de crédito;Entregue;3;Não;3
+NV-00200;03/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;4;0.0610;1399.60;85.38;1314.22;704.00;610.22;Cartão de crédito;Entregue;6;Não;5
+NV-00201;13/02/2026;E-commerce;Sul;SC;Florianópolis;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;2;0.0715;379.80;27.16;352.64;164.00;188.64;Carteira digital;Entregue;6;Não;3
+NV-00202;14/03/2026;E-commerce;Sul;PR;Curitiba;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;2;0.0553;399.80;22.11;377.69;204.00;173.69;Cartão de crédito;Entregue;2;Não;4
+NV-00203;10/03/2026;Marketplace;Sudeste;SP;São Paulo;ES-002;Luminária Desk;Escritório;Semana do Consumidor;CRM + Mídia paga;179.90;1;0.1539;179.90;27.69;152.21;88.00;64.21;Carteira digital;Entregue;3;Não;1
+NV-00204;02/04/2026;E-commerce;Sudeste;SP;São Paulo;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0755;399.90;30.19;369.71;226.00;143.71;Cartão de crédito;Entregue;7;Não;4
+NV-00205;12/01/2026;Loja Física;Sul;SC;Florianópolis;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0682;279.90;19.09;260.81;148.00;112.81;Pix;Entregue;4;Não;
+NV-00206;25/04/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;CA-003;Aspirador Compact;Casa;Frete Turbo;CRM;499.90;2;0.1116;999.80;111.58;888.22;580.00;308.22;Carteira digital;Entregue;4;Não;3
+NV-00207;17/01/2026;Marketplace;Sul;SC;Florianópolis;ES-002;Luminária Desk;Escritório;Liquida Verão;Mídia paga;179.90;4;0.1279;719.60;92.04;627.56;352.00;275.56;Cartão de crédito;Entregue;3;Não;5
+NV-00208;25/01/2026;Loja Física;Nordeste;BA;Salvador;ES-001;Cadeira Flex;Escritório;Liquida Verão;Mídia paga;899.90;2;0.1012;1799.80;182.14;1617.66;1040.00;577.66;Carteira digital;Entregue;3;Não;5
+NV-00209;13/01/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0217;319.90;6.94;312.96;154.00;158.96;Cartão de crédito;Entregue;7;Não;5
+NV-00210;25/03/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;PT-002;Cama PetCloud;Pet;Páscoa Digital;Social + E-mail;229.90;1;0.1462;229.90;33.61;196.29;121.00;75.29;Boleto;Entregue;3;Não;4
+NV-00211;07/04/2026;Marketplace;Sudeste;SP;São Paulo;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0053;239.90;1.27;238.63;116.00;122.63;Cartão de crédito;Entregue;2;Não;1
+NV-00212;08/04/2026;Marketplace;Centro-Oeste;DF;Brasília;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.4200;219.90;92.36;127.54;118.00;9.54;Pix;Em Separação;9;Não;
+NV-00213;06/01/2026;E-commerce;Sudeste;SP;São Paulo;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;3;0.0212;1499.70;31.79;1467.91;870.00;597.91;Pix;Entregue;7;Não;1
+NV-00214;22/02/2026;E-commerce;Sul;RS;Porto Alegre;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;2;0.0175;439.80;7.70;432.10;236.00;196.10;Boleto;Entregue;6;Não;4
+NV-00215;12/01/2026;Marketplace;Sudeste;MG;Belo Horizonte;EL-002;Fone Pulse;Eletrônicos;Liquida Verão;Mídia paga;249.90;3;0.1507;749.70;112.98;636.72;396.00;240.72;Boleto;Entregue;5;Não;4
+NV-00216;02/03/2026;E-commerce;Sul;RS;Porto Alegre;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0787;219.90;17.31;202.59;118.00;84.59;Carteira digital;Entregue;3;Não;5
+NV-00217;28/01/2026;Loja Física;Sul;PR;Curitiba;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0481;189.90;9.13;180.77;82.00;98.77;Cartão de crédito;Entregue;7;Não;
+NV-00218;17/02/2026;E-commerce;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0010;289.90;0.29;289.61;156.00;133.61;Cartão de crédito;Entregue;5;Não;3
+NV-00219;30/03/2026;Loja Física;Sudeste;SP;São Paulo;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0727;249.90;18.17;231.73;132.00;99.73;Boleto;Entregue;5;Não;4
+NV-00220;16/04/2026;E-commerce;Sudeste;SP;São Paulo;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;3;0.1205;989.70;119.26;870.44;555.00;315.44;Carteira digital;Entregue;6;Não;5
+NV-00221;31/03/2026;Marketplace;Sudeste;MG;Belo Horizonte;SP-002;Tapete Yoga Move;Esporte;Páscoa Digital;Social + E-mail;129.90;1;0.0711;129.90;9.24;120.66;58.00;62.66;Boleto;Entregue;2;Não;4
+NV-00222;21/04/2026;Loja Física;Centro-Oeste;DF;Brasília;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;5;0.0163;649.50;10.59;638.91;290.00;348.91;Cartão de crédito;Entregue;4;Não;5
+NV-00223;23/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0576;329.90;19.00;310.90;185.00;125.90;Boleto;Entregue;8;Não;4
+NV-00224;11/01/2026;Loja Física;Sudeste;SP;São Paulo;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;2;0.0495;399.80;19.79;380.01;204.00;176.01;Boleto;Entregue;2;Não;
+NV-00225;12/01/2026;E-commerce;Centro-Oeste;GO;Goiânia;CA-001;Cafeteira Aroma;Casa;Liquida Verão;Mídia paga;329.90;1;0.1060;329.90;34.97;294.93;185.00;109.93;Boleto;Entregue;8;Não;5
+NV-00226;15/01/2026;E-commerce;Sul;SC;Florianópolis;PT-001;Fonte PetFlow;Pet;Liquida Verão;Mídia paga;259.90;4;0.1449;1039.60;150.64;888.96;576.00;312.96;Carteira digital;Entregue;4;Não;4
+NV-00227;27/04/2026;E-commerce;Centro-Oeste;DF;Brasília;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0295;499.90;14.75;485.15;290.00;195.15;Pix;Entregue;8;Não;5
+NV-00228;13/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-002;Liquidificador Blend;Casa;Semana do Consumidor;CRM + Mídia paga;219.90;1;0.1876;219.90;41.25;178.65;118.00;60.65;Pix;Entregue;3;Não;1
+NV-00229;12/03/2026;E-commerce;Nordeste;CE;Fortaleza;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0679;499.90;33.94;465.96;290.00;175.96;Boleto;Cancelado;;Não;
+NV-00230;19/04/2026;Loja Física;Sul;SC;Florianópolis;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0762;499.90;38.09;461.81;290.00;171.81;Boleto;Entregue;6;Não;4
+NV-00231;16/04/2026;E-commerce;Sul;RS;Porto Alegre;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0715;219.90;15.72;204.18;118.00;86.18;Boleto;Entregue;2;Não;3
+NV-00232;16/01/2026;E-commerce;Nordeste;BA;Salvador;MO-002;Jaqueta Corta-Vento;Moda;Liquida Verão;Mídia paga;319.90;2;0.1632;639.80;104.42;535.38;308.00;227.38;Pix;Entregue;7;Não;1
+NV-00233;09/02/2026;E-commerce;Nordeste;CE;Fortaleza;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0008;219.90;0.18;219.72;118.00;101.72;Cartão de crédito;Entregue;6;Não;4
+NV-00234;04/02/2026;Marketplace;Nordeste;BA;Salvador;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;2;0.0533;999.80;53.29;946.51;580.00;366.51;Carteira digital;Entregue;7;Não;4
+NV-00235;16/02/2026;Loja Física;Nordeste;BA;Salvador;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0659;699.90;46.12;653.78;405.00;248.78;Cartão de crédito;Entregue;10;Não;4
+NV-00236;13/02/2026;Marketplace;Sul;PR;Curitiba;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;4;0.0723;1999.60;144.57;1855.03;1160.00;695.03;Carteira digital;Entregue;6;Não;5
+NV-00237;07/02/2026;E-commerce;Nordeste;CE;Fortaleza;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;3;0.0730;599.70;43.78;555.92;306.00;249.92;Carteira digital;Entregue;5;Não;4
+NV-00238;02/02/2026;E-commerce;Sul;PR;Curitiba;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;2;0.0247;439.80;10.86;428.94;236.00;192.94;Boleto;Entregue;6;Não;4
+NV-00239;10/02/2026;Loja Física;Sul;PR;Curitiba;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;3;0.0122;1049.70;12.81;1036.89;528.00;508.89;Pix;Entregue;2;Não;4
+NV-00240;27/04/2026;E-commerce;Centro-Oeste;DF;Brasília;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;3;0.0339;1079.70;36.60;1043.10;594.00;449.10;Boleto;Entregue;3;Não;5
+NV-00241;02/02/2026;Loja Física;Sudeste;MG;Belo Horizonte;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;2;0.0624;1399.80;87.35;1312.45;810.00;502.45;Pix;Entregue;4;Não;4
+NV-00242;28/03/2026;E-commerce;Sul;RS;Porto Alegre;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;3;0.0174;839.70;14.61;825.09;444.00;381.09;Carteira digital;Entregue;4;Não;
+NV-00243;17/01/2026;E-commerce;Sul;RS;Porto Alegre;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0203;239.90;4.87;235.03;116.00;119.03;Cartão de crédito;Entregue;3;Não;
+NV-00244;14/01/2026;E-commerce;Sul;SC;Florianópolis;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;4;0.0268;759.60;20.36;739.24;328.00;411.24;Boleto;Entregue;6;Não;5
+NV-00245;05/01/2026;E-commerce;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0178;289.90;5.16;284.74;156.00;128.74;Boleto;Entregue;3;Não;5
+NV-00246;04/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0521;329.90;17.19;312.71;185.00;127.71;Carteira digital;Entregue;4;Não;4
+NV-00247;05/02/2026;Marketplace;Sudeste;MG;Belo Horizonte;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0442;219.90;9.72;210.18;118.00;92.18;Pix;Entregue;5;Não;4
+NV-00248;02/01/2026;E-commerce;Centro-Oeste;DF;Brasília;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.1286;349.90;45.00;304.90;176.00;128.90;Carteira digital;Entregue;8;Não;4
+NV-00249;12/03/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;BE-002;Kit Skincare Glow;Beleza;Semana do Consumidor;CRM + Mídia paga;189.90;1;0.2216;189.90;42.08;147.82;82.00;65.82;Boleto;Entregue;4;Não;4
+NV-00250;01/04/2026;E-commerce;Nordeste;BA;Salvador;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0383;899.90;34.47;865.43;520.00;345.43;Pix;Em Separação;8;Não;
+NV-00251;18/02/2026;Marketplace;Centro-Oeste;GO;Goiânia;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0246;219.90;5.41;214.49;118.00;96.49;Boleto;Entregue;8;Não;4
+NV-00252;23/02/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.1091;229.90;25.08;204.82;121.00;83.82;Carteira digital;Entregue;2;Não;1
+NV-00253;07/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0066;499.90;3.30;496.60;290.00;206.60;Pix;Entregue;6;Não;4
+NV-00254;03/04/2026;Loja Física;Sul;SC;Florianópolis;ES-002;Luminária Desk;Escritório;Páscoa Digital;Social + E-mail;179.90;4;0.1519;719.60;109.31;610.29;352.00;258.29;Cartão de crédito;Entregue;7;Não;5
+NV-00255;13/02/2026;E-commerce;Sul;PR;Curitiba;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;2;0.0415;479.80;19.91;459.89;232.00;227.89;Cartão de crédito;Entregue;4;Não;5
+NV-00256;28/02/2026;E-commerce;Sudeste;SP;São Paulo;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0279;899.90;25.11;874.79;520.00;354.79;Carteira digital;Entregue;6;Não;
+NV-00257;17/02/2026;E-commerce;Sudeste;MG;Belo Horizonte;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0390;699.90;27.30;672.60;405.00;267.60;Cartão de crédito;Entregue;3;Não;4
+NV-00258;23/03/2026;Loja Física;Sudeste;SP;São Paulo;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;2;0.0016;299.80;0.48;299.32;124.00;175.32;Cartão de crédito;Entregue;2;Não;4
+NV-00259;22/04/2026;E-commerce;Sul;RS;Porto Alegre;EL-001;Smartwatch Move;Eletrônicos;Frete Turbo;CRM;699.90;3;0.0792;2099.70;166.30;1933.40;1215.00;718.40;Boleto;Entregue;5;Não;5
+NV-00260;29/01/2026;E-commerce;Nordeste;PE;Recife;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0517;289.90;14.99;274.91;156.00;118.91;Boleto;Devolvido;9;Sim;5
+NV-00261;23/04/2026;E-commerce;Nordeste;PE;Recife;EL-004;Webcam Pro;Eletrônicos;Frete Turbo;CRM;289.90;3;0.0725;869.70;63.05;806.65;468.00;338.65;Carteira digital;Entregue;5;Não;4
+NV-00262;29/01/2026;Loja Física;Centro-Oeste;DF;Brasília;ES-001;Cadeira Flex;Escritório;Liquida Verão;Mídia paga;899.90;2;0.1465;1799.80;263.67;1536.13;1040.00;496.13;Pix;Em Separação;4;Não;
+NV-00263;11/03/2026;E-commerce;Nordeste;BA;Salvador;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;3;0.0257;989.70;25.44;964.26;555.00;409.26;Carteira digital;Entregue;3;Não;3
+NV-00264;12/03/2026;Loja Física;Sul;PR;Curitiba;CA-002;Liquidificador Blend;Casa;Semana do Consumidor;CRM + Mídia paga;219.90;1;0.2368;219.90;52.07;167.83;118.00;49.83;Carteira digital;Entregue;3;Não;5
+NV-00265;16/02/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0329;219.90;7.23;212.67;118.00;94.67;Cartão de crédito;Entregue;5;Não;4
+NV-00266;11/01/2026;E-commerce;Sudeste;SP;São Paulo;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0298;239.90;7.15;232.75;116.00;116.75;Cartão de crédito;Entregue;5;Não;4
+NV-00267;10/01/2026;E-commerce;Nordeste;PE;Recife;MO-002;Jaqueta Corta-Vento;Moda;Liquida Verão;Mídia paga;319.90;1;0.1567;319.90;50.13;269.77;154.00;115.77;Pix;Entregue;6;Não;5
+NV-00268;06/04/2026;Loja Física;Centro-Oeste;DF;Brasília;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;3;0.0753;989.70;74.52;915.18;555.00;360.18;Cartão de crédito;Entregue;6;Não;3
+NV-00269;22/03/2026;E-commerce;Nordeste;PE;Recife;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0071;349.90;2.48;347.42;176.00;171.42;Cartão de crédito;Entregue;7;Não;5
+NV-00270;03/02/2026;Loja Física;Nordeste;PE;Recife;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0674;359.80;24.25;335.55;176.00;159.55;Boleto;Em Separação;6;Não;
+NV-00271;12/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0478;259.90;12.42;247.48;144.00;103.48;Pix;Entregue;3;Não;5
+NV-00272;09/01/2026;E-commerce;Nordeste;BA;Salvador;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0311;229.90;7.15;222.75;121.00;101.75;Cartão de crédito;Entregue;5;Não;4
+NV-00273;15/04/2026;Marketplace;Sul;SC;Florianópolis;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;4;0.0608;759.60;46.18;713.42;328.00;385.42;Pix;Entregue;5;Não;4
+NV-00274;12/03/2026;E-commerce;Centro-Oeste;DF;Brasília;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0674;329.90;22.24;307.66;185.00;122.66;Carteira digital;Entregue;7;Não;4
+NV-00275;04/01/2026;Loja Física;Sul;PR;Curitiba;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;3;0.0774;689.70;53.38;636.32;363.00;273.32;Cartão de crédito;Em Separação;4;Não;
+NV-00276;21/04/2026;Loja Física;Sul;RS;Porto Alegre;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0815;329.90;26.89;303.01;185.00;118.01;Pix;Entregue;5;Não;4
+NV-00277;25/02/2026;E-commerce;Nordeste;PE;Recife;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0356;499.90;17.80;482.10;290.00;192.10;Pix;Entregue;6;Não;5
+NV-00278;17/01/2026;Marketplace;Sudeste;SP;São Paulo;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;2;0.0752;459.80;34.58;425.22;242.00;183.22;Cartão de crédito;Entregue;2;Não;3
+NV-00279;05/04/2026;E-commerce;Sudeste;MG;Belo Horizonte;BE-002;Kit Skincare Glow;Beleza;Páscoa Digital;Social + E-mail;189.90;1;0.1223;189.90;23.22;166.68;82.00;84.68;Pix;Entregue;7;Não;4
+NV-00280;12/02/2026;E-commerce;Nordeste;CE;Fortaleza;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0145;699.90;10.15;689.75;405.00;284.75;Pix;Entregue;4;Não;5
+NV-00281;05/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0359;259.90;9.33;250.57;144.00;106.57;Boleto;Entregue;8;Não;3
+NV-00282;23/04/2026;E-commerce;Sul;PR;Curitiba;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0102;349.90;3.57;346.33;176.00;170.33;Pix;Entregue;5;Não;4
+NV-00283;16/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;EL-002;Fone Pulse;Eletrônicos;Semana do Consumidor;CRM + Mídia paga;249.90;1;0.2269;249.90;56.70;193.20;132.00;61.20;Pix;Entregue;4;Não;5
+NV-00284;06/04/2026;E-commerce;Sudeste;SP;São Paulo;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0057;259.90;1.48;258.42;144.00;114.42;Pix;Entregue;4;Não;4
+NV-00285;22/04/2026;E-commerce;Sudeste;SP;São Paulo;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0746;179.90;13.42;166.48;88.00;78.48;Carteira digital;Entregue;5;Não;1
+NV-00286;10/01/2026;Marketplace;Centro-Oeste;DF;Brasília;ES-003;Teclado Silent;Escritório;Liquida Verão;Mídia paga;199.90;3;0.1263;599.70;75.74;523.96;306.00;217.96;Boleto;Entregue;5;Não;1
+NV-00287;18/02/2026;E-commerce;Sudeste;SP;São Paulo;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;4;0.0391;2799.60;109.46;2690.14;1620.00;1070.14;Cartão de crédito;Entregue;5;Não;4
+NV-00288;13/03/2026;Marketplace;Sul;PR;Curitiba;SP-003;Halter Ajustável;Esporte;Semana do Consumidor;CRM + Mídia paga;399.90;1;0.1921;399.90;76.82;323.08;226.00;97.08;Pix;Entregue;5;Não;5
+NV-00289;15/03/2026;E-commerce;Sul;RS;Porto Alegre;PT-001;Fonte PetFlow;Pet;Semana do Consumidor;CRM + Mídia paga;259.90;5;0.2410;1299.50;313.18;986.32;720.00;266.32;Carteira digital;Entregue;2;Não;5
+NV-00290;12/04/2026;Loja Física;Sudeste;MG;Belo Horizonte;ES-002;Luminária Desk;Escritório;Frete Turbo;CRM;179.90;2;0.0811;359.80;29.18;330.62;176.00;154.62;Cartão de crédito;Entregue;4;Não;5
+NV-00291;28/01/2026;E-commerce;Sudeste;SP;São Paulo;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;4;0.0794;1039.60;82.54;957.06;576.00;381.06;Pix;Entregue;2;Não;4
+NV-00292;07/02/2026;E-commerce;Nordeste;BA;Salvador;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;2;0.0177;459.80;8.14;451.66;242.00;209.66;Boleto;Em Separação;5;Não;
+NV-00293;30/01/2026;E-commerce;Nordeste;PE;Recife;MO-002;Jaqueta Corta-Vento;Moda;Liquida Verão;Mídia paga;319.90;2;0.1485;639.80;95.01;544.79;308.00;236.79;Carteira digital;Entregue;3;Não;4
+NV-00294;11/01/2026;E-commerce;Nordeste;BA;Salvador;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0788;189.90;14.96;174.94;82.00;92.94;Cartão de crédito;Entregue;8;Não;4
+NV-00295;07/02/2026;Loja Física;Nordeste;CE;Fortaleza;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;2;0.0019;999.80;1.90;997.90;580.00;417.90;Cartão de crédito;Entregue;7;Não;5
+NV-00296;27/02/2026;E-commerce;Centro-Oeste;DF;Brasília;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;3;0.0657;659.70;43.34;616.36;354.00;262.36;Carteira digital;Entregue;4;Não;3
+NV-00297;19/01/2026;E-commerce;Centro-Oeste;DF;Brasília;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;2;0.0235;579.80;13.63;566.17;312.00;254.17;Boleto;Entregue;5;Não;4
+NV-00298;26/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;BE-002;Kit Skincare Glow;Beleza;Páscoa Digital;Social + E-mail;189.90;1;0.1471;189.90;27.93;161.97;82.00;79.97;Boleto;Entregue;5;Não;4
+NV-00299;06/01/2026;E-commerce;Sul;PR;Curitiba;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0189;329.90;6.24;323.66;185.00;138.66;Pix;Entregue;3;Não;5
+NV-00300;25/03/2026;E-commerce;Nordeste;PE;Recife;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;2;0.0629;659.80;41.50;618.30;370.00;248.30;Pix;Entregue;5;Não;5
+NV-00301;15/04/2026;E-commerce;Sul;RS;Porto Alegre;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;4;0.0004;1159.60;0.46;1159.14;624.00;535.14;Cartão de crédito;Entregue;7;Não;4
+NV-00302;25/01/2026;Loja Física;Sul;SC;Florianópolis;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0504;219.90;11.08;208.82;118.00;90.82;Cartão de crédito;Entregue;2;Não;5
+NV-00303;12/03/2026;Loja Física;Sudeste;SP;São Paulo;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0599;499.80;29.94;469.86;264.00;205.86;Pix;Entregue;6;Não;4
+NV-00304;29/04/2026;E-commerce;Sul;SC;Florianópolis;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;3;0.0401;659.70;26.45;633.25;354.00;279.25;Boleto;Devolvido;3;Sim;3
+NV-00305;16/02/2026;Marketplace;Sul;PR;Curitiba;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;2;0.0303;659.80;19.99;639.81;370.00;269.81;Cartão de crédito;Entregue;6;Não;4
+NV-00306;28/01/2026;Marketplace;Centro-Oeste;DF;Brasília;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;2;0.0289;1799.80;52.01;1747.79;1040.00;707.79;Pix;Entregue;5;Não;4
+NV-00307;25/03/2026;E-commerce;Nordeste;PE;Recife;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0403;499.90;20.15;479.75;290.00;189.75;Boleto;Entregue;4;Não;5
+NV-00308;25/03/2026;E-commerce;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Páscoa Digital;Social + E-mail;289.90;4;0.1551;1159.60;179.85;979.75;624.00;355.75;Carteira digital;Entregue;6;Não;5
+NV-00309;21/02/2026;E-commerce;Nordeste;PE;Recife;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0697;499.90;34.84;465.06;290.00;175.06;Carteira digital;Entregue;9;Não;2
+NV-00310;20/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0706;239.90;16.94;222.96;116.00;106.96;Boleto;Entregue;8;Não;4
+NV-00311;24/04/2026;Loja Física;Centro-Oeste;DF;Brasília;MO-001;Mochila Urban;Moda;Frete Turbo;CRM;239.90;1;0.1145;239.90;27.47;212.43;116.00;96.43;Carteira digital;Cancelado;;Não;
+NV-00312;28/01/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0615;329.90;20.29;309.61;185.00;124.61;Carteira digital;Entregue;2;Não;4
+NV-00313;08/03/2026;Loja Física;Nordeste;CE;Fortaleza;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0418;289.90;12.12;277.78;156.00;121.78;Cartão de crédito;Entregue;8;Não;4
+NV-00314;23/01/2026;Loja Física;Nordeste;BA;Salvador;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0710;319.90;22.71;297.19;154.00;143.19;Pix;Entregue;6;Não;4
+NV-00315;19/04/2026;E-commerce;Nordeste;CE;Fortaleza;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;3;0.0456;749.70;34.19;715.51;396.00;319.51;Carteira digital;Entregue;7;Não;4
+NV-00316;14/04/2026;E-commerce;Sul;PR;Curitiba;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0440;289.90;12.76;277.14;156.00;121.14;Pix;Entregue;7;Não;4
+NV-00317;20/02/2026;Loja Física;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0642;219.90;14.12;205.78;118.00;87.78;Carteira digital;Entregue;6;Não;5
+NV-00318;10/01/2026;Marketplace;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Liquida Verão;Mídia paga;219.90;1;0.1577;219.90;34.68;185.22;118.00;67.22;Pix;Entregue;8;Não;5
+NV-00319;05/01/2026;Loja Física;Sul;RS;Porto Alegre;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;3;0.0021;1079.70;2.27;1077.43;594.00;483.43;Pix;Entregue;7;Não;4
+NV-00320;23/02/2026;E-commerce;Sul;RS;Porto Alegre;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0025;249.90;0.62;249.28;132.00;117.28;Pix;Entregue;4;Não;4
+NV-00321;17/03/2026;E-commerce;Sul;PR;Curitiba;MO-001;Mochila Urban;Moda;Semana do Consumidor;CRM + Mídia paga;239.90;1;0.1308;239.90;31.38;208.52;116.00;92.52;Boleto;Entregue;3;Não;4
+NV-00322;04/01/2026;Loja Física;Sul;PR;Curitiba;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0653;289.90;18.93;270.97;156.00;114.97;Carteira digital;Entregue;5;Não;5
+NV-00323;05/03/2026;E-commerce;Nordeste;BA;Salvador;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;4;0.0003;1159.60;0.35;1159.25;624.00;535.25;Boleto;Entregue;8;Não;2
+NV-00324;23/02/2026;Marketplace;Sul;SC;Florianópolis;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;2;0.0144;479.80;6.91;472.89;232.00;240.89;Carteira digital;Em Separação;2;Não;
+NV-00325;05/03/2026;E-commerce;Nordeste;BA;Salvador;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;4;0.0686;919.60;63.08;856.52;484.00;372.52;Pix;Entregue;9;Não;5
+NV-00326;06/01/2026;E-commerce;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;3;0.0204;659.70;13.46;646.24;354.00;292.24;Boleto;Entregue;3;Não;3
+NV-00327;06/01/2026;E-commerce;Sul;RS;Porto Alegre;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0346;239.90;8.30;231.60;116.00;115.60;Cartão de crédito;Entregue;6;Não;4
+NV-00328;07/02/2026;E-commerce;Nordeste;CE;Fortaleza;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0067;229.90;1.54;228.36;121.00;107.36;Pix;Entregue;6;Não;5
+NV-00329;10/04/2026;E-commerce;Nordeste;CE;Fortaleza;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;2;0.0107;799.80;8.56;791.24;452.00;339.24;Pix;Entregue;5;Não;3
+NV-00330;17/01/2026;Marketplace;Nordeste;CE;Fortaleza;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0417;899.90;37.53;862.37;520.00;342.37;Cartão de crédito;Entregue;8;Não;5
+NV-00331;01/04/2026;E-commerce;Sul;RS;Porto Alegre;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;2;0.0634;399.80;25.35;374.45;204.00;170.45;Boleto;Entregue;6;Não;5
+NV-00332;03/02/2026;E-commerce;Sudeste;SP;São Paulo;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0428;319.90;13.69;306.21;154.00;152.21;Boleto;Entregue;6;Não;4
+NV-00333;21/01/2026;Loja Física;Sudeste;SP;São Paulo;ES-003;Teclado Silent;Escritório;Liquida Verão;Mídia paga;199.90;1;0.1553;199.90;31.04;168.86;102.00;66.86;Carteira digital;Entregue;3;Não;5
+NV-00334;16/04/2026;E-commerce;Sul;SC;Florianópolis;EL-004;Webcam Pro;Eletrônicos;Frete Turbo;CRM;289.90;2;0.0636;579.80;36.88;542.92;312.00;230.92;Boleto;Entregue;5;Não;3
+NV-00335;14/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;MO-003;Tênis Casual City;Moda;Semana do Consumidor;CRM + Mídia paga;349.90;2;0.1892;699.80;132.40;567.40;352.00;215.40;Cartão de crédito;Entregue;5;Não;
+NV-00336;08/01/2026;E-commerce;Sul;RS;Porto Alegre;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0741;289.90;21.48;268.42;156.00;112.42;Boleto;Entregue;4;Não;5
+NV-00337;16/03/2026;Loja Física;Centro-Oeste;GO;Goiânia;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;5;0.0727;649.50;47.22;602.28;290.00;312.28;Boleto;Entregue;5;Não;4
+NV-00338;28/01/2026;Marketplace;Sul;SC;Florianópolis;MO-002;Jaqueta Corta-Vento;Moda;Liquida Verão;Mídia paga;319.90;4;0.1240;1279.60;158.67;1120.93;616.00;504.93;Pix;Entregue;2;Não;
+NV-00339;20/04/2026;Marketplace;Sudeste;SP;São Paulo;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0318;349.90;11.13;338.77;176.00;162.77;Boleto;Entregue;3;Não;
+NV-00340;19/03/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0321;899.90;28.89;871.01;520.00;351.01;Pix;Em Separação;7;Não;
+NV-00341;23/03/2026;Loja Física;Sudeste;SP;São Paulo;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0679;249.90;16.97;232.93;132.00;100.93;Boleto;Entregue;2;Não;5
+NV-00342;14/02/2026;Marketplace;Sudeste;MG;Belo Horizonte;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0563;189.90;10.69;179.21;82.00;97.21;Carteira digital;Entregue;2;Não;1
+NV-00343;30/01/2026;Loja Física;Sudeste;SP;São Paulo;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0234;899.90;21.06;878.84;520.00;358.84;Pix;Entregue;7;Não;5
+NV-00344;05/03/2026;E-commerce;Sudeste;SP;São Paulo;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0965;129.90;12.54;117.36;58.00;59.36;Cartão de crédito;Entregue;6;Não;5
+NV-00345;20/01/2026;E-commerce;Sudeste;SP;São Paulo;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0534;349.90;18.68;331.22;176.00;155.22;Carteira digital;Entregue;5;Não;4
+NV-00346;16/01/2026;Loja Física;Nordeste;PE;Recife;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0409;249.90;10.22;239.68;132.00;107.68;Cartão de crédito;Entregue;8;Não;5
+NV-00347;20/03/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;4;0.0608;1039.60;63.21;976.39;576.00;400.39;Carteira digital;Entregue;6;Não;3
+NV-00348;18/01/2026;Loja Física;Sul;PR;Curitiba;CA-003;Aspirador Compact;Casa;Liquida Verão;Mídia paga;499.90;2;0.1136;999.80;113.58;886.22;580.00;306.22;Pix;Entregue;4;Não;1
+NV-00349;30/03/2026;E-commerce;Sudeste;SP;São Paulo;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0230;329.90;7.59;322.31;185.00;137.31;Carteira digital;Entregue;6;Não;4
+NV-00350;31/03/2026;Marketplace;Sudeste;SP;São Paulo;PT-002;Cama PetCloud;Pet;Páscoa Digital;Social + E-mail;229.90;2;0.1564;459.80;71.91;387.89;242.00;145.89;Cartão de crédito;Entregue;5;Não;5
+NV-00351;04/03/2026;Loja Física;Sudeste;SP;São Paulo;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;2;0.0257;439.80;11.30;428.50;236.00;192.50;Carteira digital;Entregue;2;Não;4
+NV-00352;06/01/2026;E-commerce;Nordeste;BA;Salvador;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0688;259.90;17.88;242.02;144.00;98.02;Boleto;Entregue;7;Não;4
+NV-00353;13/01/2026;Loja Física;Centro-Oeste;DF;Brasília;MO-002;Jaqueta Corta-Vento;Moda;Liquida Verão;Mídia paga;319.90;1;0.1522;319.90;48.69;271.21;154.00;117.21;Carteira digital;Entregue;9;Não;4
+NV-00354;22/02/2026;E-commerce;Sudeste;MG;Belo Horizonte;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0381;289.90;11.05;278.85;156.00;122.85;Boleto;Entregue;6;Não;5
+NV-00355;26/01/2026;E-commerce;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Liquida Verão;Mídia paga;289.90;2;0.1618;579.80;93.81;485.99;312.00;173.99;Carteira digital;Entregue;5;Não;4
+NV-00356;02/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0428;349.90;14.98;334.92;176.00;158.92;Cartão de crédito;Entregue;4;Não;5
+NV-00357;22/04/2026;Loja Física;Sul;RS;Porto Alegre;ES-001;Cadeira Flex;Escritório;Frete Turbo;CRM;899.90;1;0.1107;899.90;99.62;800.28;520.00;280.28;Pix;Entregue;5;Não;3
+NV-00358;31/01/2026;E-commerce;Centro-Oeste;DF;Brasília;PT-001;Fonte PetFlow;Pet;Liquida Verão;Mídia paga;259.90;1;0.0884;259.90;22.98;236.92;144.00;92.92;Carteira digital;Entregue;7;Não;4
+NV-00359;29/03/2026;Loja Física;Sul;PR;Curitiba;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0181;129.90;2.35;127.55;58.00;69.55;Cartão de crédito;Entregue;4;Não;4
+NV-00360;07/01/2026;E-commerce;Nordeste;BA;Salvador;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;3;0.0713;2099.70;149.71;1949.99;1215.00;734.99;Boleto;Entregue;4;Não;5
+NV-00361;20/04/2026;E-commerce;Sul;SC;Florianópolis;MO-003;Tênis Casual City;Moda;Frete Turbo;CRM;349.90;1;0.0568;349.90;19.87;330.03;176.00;154.03;Boleto;Entregue;3;Não;4
+NV-00362;05/02/2026;Loja Física;Sudeste;SP;São Paulo;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0023;219.90;0.51;219.39;118.00;101.39;Boleto;Entregue;2;Não;2
+NV-00363;13/03/2026;Loja Física;Sudeste;SP;São Paulo;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0500;189.90;9.50;180.40;82.00;98.40;Cartão de crédito;Entregue;6;Não;5
+NV-00364;07/02/2026;Loja Física;Nordeste;CE;Fortaleza;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0195;199.90;3.90;196.00;102.00;94.00;Cartão de crédito;Entregue;10;Não;3
+NV-00365;11/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;EL-003;Caixa de Som Orbit;Eletrônicos;Semana do Consumidor;CRM + Mídia paga;359.90;1;0.1218;359.90;43.84;316.06;198.00;118.06;Cartão de crédito;Entregue;2;Não;4
+NV-00366;04/01/2026;Marketplace;Nordeste;CE;Fortaleza;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;3;0.0218;569.70;12.42;557.28;246.00;311.28;Boleto;Em Separação;6;Não;
+NV-00367;18/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;MO-002;Jaqueta Corta-Vento;Moda;Frete Turbo;CRM;319.90;2;0.1029;639.80;65.84;573.96;308.00;265.96;Pix;Entregue;7;Não;3
+NV-00368;06/01/2026;E-commerce;Centro-Oeste;GO;Goiânia;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;5;0.0670;1249.50;83.72;1165.78;660.00;505.78;Pix;Entregue;4;Não;3
+NV-00369;25/03/2026;E-commerce;Nordeste;BA;Salvador;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0786;249.90;19.64;230.26;132.00;98.26;Cartão de crédito;Em Separação;5;Não;
+NV-00370;03/02/2026;Marketplace;Nordeste;PE;Recife;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;2;0.0112;999.80;11.20;988.60;580.00;408.60;Boleto;Entregue;6;Não;4
+NV-00371;28/01/2026;Marketplace;Nordeste;CE;Fortaleza;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0366;399.90;14.64;385.26;226.00;159.26;Pix;Devolvido;3;Sim;4
+NV-00372;29/01/2026;Marketplace;Sul;RS;Porto Alegre;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0726;259.90;18.87;241.03;144.00;97.03;Cartão de crédito;Cancelado;;Não;
+NV-00373;11/03/2026;Loja Física;Nordeste;PE;Recife;CA-002;Liquidificador Blend;Casa;Semana do Consumidor;CRM + Mídia paga;219.90;2;0.1305;439.80;57.39;382.41;236.00;146.41;Boleto;Entregue;5;Não;2
+NV-00374;08/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0604;249.90;15.09;234.81;132.00;102.81;Cartão de crédito;Entregue;6;Não;
+NV-00375;06/02/2026;Loja Física;Sul;SC;Florianópolis;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;3;0.0130;719.70;9.36;710.34;348.00;362.34;Pix;Entregue;7;Não;2
+NV-00376;02/02/2026;E-commerce;Sul;RS;Porto Alegre;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0465;179.90;8.37;171.53;88.00;83.53;Boleto;Entregue;6;Não;3
+NV-00377;03/04/2026;Loja Física;Sudeste;MG;Belo Horizonte;ES-002;Luminária Desk;Escritório;Páscoa Digital;Social + E-mail;179.90;1;0.0607;179.90;10.92;168.98;88.00;80.98;Carteira digital;Entregue;7;Não;4
+NV-00378;12/01/2026;E-commerce;Nordeste;CE;Fortaleza;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0729;149.90;10.93;138.97;62.00;76.97;Cartão de crédito;Entregue;7;Não;5
+NV-00379;24/03/2026;Loja Física;Nordeste;PE;Recife;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;2;0.0587;379.80;22.29;357.51;164.00;193.51;Pix;Entregue;7;Não;5
+NV-00380;01/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0706;199.90;14.11;185.79;102.00;83.79;Cartão de crédito;Entregue;3;Não;4
+NV-00381;01/01/2026;E-commerce;Sul;SC;Florianópolis;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0657;899.90;59.12;840.78;520.00;320.78;Cartão de crédito;Entregue;6;Não;5
+NV-00382;06/04/2026;E-commerce;Sul;SC;Florianópolis;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0153;289.90;4.44;285.46;156.00;129.46;Cartão de crédito;Entregue;7;Não;
+NV-00383;18/02/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0310;149.90;4.65;145.25;62.00;83.25;Carteira digital;Entregue;5;Não;4
+NV-00384;09/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0469;319.90;15.00;304.90;154.00;150.90;Boleto;Entregue;10;Não;
+NV-00385;14/03/2026;E-commerce;Sul;PR;Curitiba;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0247;349.90;8.64;341.26;176.00;165.26;Boleto;Entregue;6;Não;4
+NV-00386;20/03/2026;E-commerce;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0740;219.90;16.27;203.63;118.00;85.63;Pix;Entregue;8;Não;
+NV-00387;27/04/2026;Loja Física;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0162;219.90;3.56;216.34;118.00;98.34;Cartão de crédito;Entregue;8;Não;5
+NV-00388;18/01/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;EL-002;Fone Pulse;Eletrônicos;Liquida Verão;Mídia paga;249.90;1;0.1266;249.90;31.64;218.26;132.00;86.26;Pix;Devolvido;2;Sim;4
+NV-00389;14/02/2026;E-commerce;Nordeste;BA;Salvador;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0133;189.90;2.53;187.37;82.00;105.37;Pix;Entregue;6;Não;4
+NV-00390;06/01/2026;E-commerce;Nordeste;PE;Recife;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;2;0.0411;1799.80;73.97;1725.83;1040.00;685.83;Boleto;Entregue;5;Não;
+NV-00391;20/01/2026;Loja Física;Sul;RS;Porto Alegre;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0120;329.90;3.96;325.94;185.00;140.94;Boleto;Entregue;6;Não;5
+NV-00392;12/04/2026;E-commerce;Nordeste;CE;Fortaleza;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0336;499.80;16.79;483.01;264.00;219.01;Boleto;Entregue;8;Não;5
+NV-00393;29/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;ES-002;Luminária Desk;Escritório;Páscoa Digital;Social + E-mail;179.90;5;0.0675;899.50;60.72;838.78;440.00;398.78;Cartão de crédito;Entregue;7;Não;2
+NV-00394;19/02/2026;E-commerce;Nordeste;PE;Recife;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0516;289.90;14.96;274.94;156.00;118.94;Carteira digital;Entregue;8;Não;4
+NV-00395;04/03/2026;E-commerce;Centro-Oeste;DF;Brasília;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;3;0.0727;1199.70;87.22;1112.48;678.00;434.48;Carteira digital;Entregue;7;Não;3
+NV-00396;07/02/2026;E-commerce;Sul;PR;Curitiba;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0620;279.90;17.35;262.55;148.00;114.55;Cartão de crédito;Devolvido;3;Sim;1
+NV-00397;16/03/2026;Loja Física;Nordeste;CE;Fortaleza;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0456;499.90;22.80;477.10;290.00;187.10;Carteira digital;Entregue;3;Não;4
+NV-00398;26/02/2026;Loja Física;Sul;PR;Curitiba;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0641;259.90;16.66;243.24;144.00;99.24;Carteira digital;Entregue;6;Não;4
+NV-00399;11/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;4;0.0283;2799.60;79.23;2720.37;1620.00;1100.37;Boleto;Entregue;7;Não;5
+NV-00400;03/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0046;259.90;1.20;258.70;144.00;114.70;Carteira digital;Entregue;3;Não;3
+NV-00401;03/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;3;0.0528;449.70;23.74;425.96;186.00;239.96;Pix;Entregue;4;Não;2
+NV-00402;16/04/2026;E-commerce;Sudeste;SP;São Paulo;MO-003;Tênis Casual City;Moda;Frete Turbo;CRM;349.90;4;0.0891;1399.60;124.70;1274.90;704.00;570.90;Carteira digital;Entregue;4;Não;5
+NV-00403;19/01/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-002;Liquidificador Blend;Casa;Liquida Verão;Mídia paga;219.90;4;0.1048;879.60;92.18;787.42;472.00;315.42;Pix;Entregue;3;Não;4
+NV-00404;31/03/2026;Marketplace;Centro-Oeste;DF;Brasília;SP-003;Halter Ajustável;Esporte;Páscoa Digital;Social + E-mail;399.90;1;0.0815;399.90;32.59;367.31;226.00;141.31;Cartão de crédito;Entregue;4;Não;3
+NV-00405;05/01/2026;E-commerce;Sudeste;MG;Belo Horizonte;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;2;0.0731;479.80;35.07;444.73;232.00;212.73;Cartão de crédito;Entregue;2;Não;5
+NV-00406;15/02/2026;E-commerce;Sul;SC;Florianópolis;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;3;0.0728;959.70;69.87;889.83;462.00;427.83;Carteira digital;Entregue;5;Não;3
+NV-00407;11/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;EL-003;Caixa de Som Orbit;Eletrônicos;Semana do Consumidor;CRM + Mídia paga;359.90;1;0.1543;359.90;55.53;304.37;198.00;106.37;Pix;Entregue;7;Não;5
+NV-00408;02/02/2026;Marketplace;Centro-Oeste;DF;Brasília;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0732;189.90;13.90;176.00;82.00;94.00;Carteira digital;Devolvido;6;Sim;3
+NV-00409;22/03/2026;E-commerce;Nordeste;BA;Salvador;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0178;259.90;4.63;255.27;144.00;111.27;Cartão de crédito;Entregue;5;Não;5
+NV-00410;25/03/2026;Loja Física;Sudeste;SP;São Paulo;BE-002;Kit Skincare Glow;Beleza;Páscoa Digital;Social + E-mail;189.90;1;0.1435;189.90;27.25;162.65;82.00;80.65;Pix;Em Separação;6;Não;
+NV-00411;12/04/2026;E-commerce;Sudeste;MG;Belo Horizonte;SP-003;Halter Ajustável;Esporte;Frete Turbo;CRM;399.90;1;0.1178;399.90;47.11;352.79;226.00;126.79;Pix;Entregue;5;Não;4
+NV-00412;29/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0190;499.90;9.50;490.40;290.00;200.40;Cartão de crédito;Entregue;7;Não;5
+NV-00413;24/03/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;4;0.0225;1039.60;23.39;1016.21;576.00;440.21;Boleto;Entregue;3;Não;3
+NV-00414;23/01/2026;E-commerce;Nordeste;CE;Fortaleza;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0920;229.90;21.15;208.75;121.00;87.75;Carteira digital;Entregue;8;Não;4
+NV-00415;17/01/2026;Ecommerce;Sudeste;MG;Belo Horizonte;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;4;0.0697;959.60;66.88;892.72;464.00;428.72;Pix;Entregue;3;Não;5
+NV-00416;28/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0689;359.80;24.79;335.01;176.00;159.01;Pix;Entregue;6;Não;2
+NV-00417;01/01/2026;E-commerce;Sul;SC;Florianópolis;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;2;0.0511;559.80;28.61;531.19;296.00;235.19;Boleto;Entregue;5;Não;4
+NV-00418;03/02/2026;E-commerce;Sul;SC;Florianópolis;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0689;279.90;19.29;260.61;148.00;112.61;Carteira digital;Entregue;5;Não;5
+NV-00419;28/04/2026;Loja Física;Sul;SC;Florianópolis;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;2;0.0296;519.80;15.39;504.41;288.00;216.41;Cartão de crédito;Entregue;5;Não;5
+NV-00420;15/04/2026;E-commerce;Nordeste;PE;Recife;PT-002;Cama PetCloud;Pet;Frete Turbo;CRM;229.90;3;0.0718;689.70;49.52;640.18;363.00;277.18;Carteira digital;Entregue;10;Não;5
+NV-00421;15/04/2026;E-commerce;Centro-Oeste;DF;Brasília;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0467;279.90;13.07;266.83;148.00;118.83;Boleto;Entregue;9;Não;1
+NV-00422;08/04/2026;Marketplace;Sudeste;SP;São Paulo;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0598;319.90;19.13;300.77;154.00;146.77;Boleto;Entregue;3;Não;1
+NV-00423;24/02/2026;Loja Física;Centro-Oeste;GO;Goiânia;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0020;229.90;0.46;229.44;121.00;108.44;Pix;Entregue;6;Não;
+NV-00424;28/01/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;3;0.0797;1049.70;83.66;966.04;528.00;438.04;Cartão de crédito;Entregue;7;Não;4
+NV-00425;10/03/2026;E-commerce;Sul;PR;Curitiba;MO-001;Mochila Urban;Moda;Semana do Consumidor;CRM + Mídia paga;239.90;2;0.1511;479.80;72.50;407.30;232.00;175.30;Boleto;Entregue;6;Não;1
+NV-00426;27/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0698;259.90;18.14;241.76;144.00;97.76;Cartão de crédito;Entregue;9;Não;
+NV-00427;16/04/2026;E-commerce;Sul;SC;Florianópolis;SP-003;Halter Ajustável;Esporte;Frete Turbo;CRM;399.90;1;0.1190;399.90;47.59;352.31;226.00;126.31;Carteira digital;Entregue;7;Não;5
+NV-00428;08/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;2;0.0748;579.80;43.37;536.43;312.00;224.43;Cartão de crédito;Entregue;7;Não;5
+NV-00429;12/03/2026;E-commerce;Nordeste;CE;Fortaleza;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0006;319.90;0.19;319.71;154.00;165.71;Boleto;Entregue;5;Não;5
+NV-00430;23/03/2026;Marketplace;Sul;RS;Porto Alegre;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;3;0.0351;539.70;18.94;520.76;264.00;256.76;Boleto;Entregue;4;Não;1
+NV-00431;10/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;MO-003;Tênis Casual City;Moda;Semana do Consumidor;CRM + Mídia paga;349.90;1;0.1695;349.90;59.31;290.59;176.00;114.59;Cartão de crédito;Cancelado;;Não;
+NV-00432;29/01/2026;E-commerce;Centro-Oeste;DF;Brasília;ES-003;Teclado Silent;Escritório;Liquida Verão;Mídia paga;199.90;1;0.1190;199.90;23.79;176.11;102.00;74.11;Cartão de crédito;Entregue;10;Não;
+NV-00433;31/03/2026;E-commerce;Centro-Oeste;DF;Brasília;BE-001;Secador Air;Beleza;Páscoa Digital;Social + E-mail;279.90;1;0.1411;279.90;39.49;240.41;148.00;92.41;Carteira digital;Entregue;8;Não;5
+NV-00434;07/02/2026;E-commerce;Sul;SC;Florianópolis;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0002;149.90;0.03;149.87;62.00;87.87;Carteira digital;Cancelado;;Não;
+NV-00435;21/02/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0309;199.90;6.18;193.72;102.00;91.72;Boleto;Devolvido;7;Sim;
+NV-00436;25/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;ES-002;Luminária Desk;Escritório;Páscoa Digital;Social + E-mail;179.90;1;0.1378;179.90;24.79;155.11;88.00;67.11;Carteira digital;Entregue;7;Não;5
+NV-00437;13/03/2026;Loja Física;Nordeste;BA;Salvador;SP-002;Tapete Yoga Move;Esporte;Semana do Consumidor;CRM + Mídia paga;129.90;3;0.1052;389.70;41.00;348.70;174.00;174.70;Pix;Entregue;5;Não;2
+NV-00438;27/04/2026;Loja Física;Sul;SC;Florianópolis;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0213;699.90;14.91;684.99;405.00;279.99;Boleto;Entregue;7;Não;4
+NV-00439;29/04/2026;E-commerce;Nordeste;PE;Recife;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;2;0.0650;699.80;45.49;654.31;352.00;302.31;Boleto;Entregue;7;Não;4
+NV-00440;08/03/2026;Loja Física;Sul;PR;Curitiba;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0751;399.90;30.03;369.87;226.00;143.87;Carteira digital;Entregue;5;Não;4
+NV-00441;18/03/2026;Marketplace;Sul;PR;Curitiba;SP-002;Tapete Yoga Move;Esporte;Semana do Consumidor;CRM + Mídia paga;129.90;1;0.2089;129.90;27.14;102.76;58.00;44.76;Boleto;Entregue;3;Não;4
+NV-00442;09/04/2026;Loja Física;Sul;SC;Florianópolis;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;2;0.0409;719.80;29.44;690.36;396.00;294.36;Boleto;Entregue;4;Não;4
+NV-00443;30/03/2026;E-commerce;Sul;SC;Florianópolis;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0267;229.90;6.14;223.76;121.00;102.76;Cartão de crédito;Entregue;7;Não;4
+NV-00444;05/01/2026;Loja Física;Centro-Oeste;DF;Brasília;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0520;319.90;16.63;303.27;154.00;149.27;Cartão de crédito;Cancelado;;Não;
+NV-00445;14/04/2026;E-commerce;Sudeste;SP;São Paulo;CA-002;Liquidificador Blend;Casa;Frete Turbo;CRM;219.90;1;0.1129;219.90;24.83;195.07;118.00;77.07;Cartão de crédito;Entregue;6;Não;5
+NV-00446;09/03/2026;E-commerce;Sudeste;SP;São Paulo;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0775;179.90;13.94;165.96;88.00;77.96;Boleto;Entregue;6;Não;5
+NV-00447;30/03/2026;Loja Física;Centro-Oeste;GO;Goiânia;CA-001;Cafeteira Aroma;Casa;Páscoa Digital;Social + E-mail;329.90;1;0.1152;329.90;38.00;291.90;185.00;106.90;Cartão de crédito;Entregue;5;Não;4
+NV-00448;05/04/2026;E-commerce;Sudeste;SP;São Paulo;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0411;239.90;9.86;230.04;116.00;114.04;Cartão de crédito;Entregue;6;Não;5
+NV-00449;07/01/2026;Loja Física;Sudeste;MG;Belo Horizonte;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;2;0.0166;1399.80;23.24;1376.56;810.00;566.56;Pix;Entregue;6;Não;4
+NV-00450;26/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0102;359.90;3.67;356.23;198.00;158.23;Boleto;Entregue;4;Não;4
+NV-00451;08/04/2026;Marketplace;Nordeste;PE;Recife;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0574;359.90;20.66;339.24;198.00;141.24;Boleto;Entregue;3;Não;
+NV-00452;23/02/2026;E-commerce;Nordeste;PE;Recife;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;3;0.0152;659.70;10.03;649.67;354.00;295.67;Boleto;Entregue;5;Não;5
+NV-00453;05/01/2026;E-commerce;Centro-Oeste;DF;Brasília;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;4;0.0757;1399.60;105.95;1293.65;704.00;589.65;Cartão de crédito;Devolvido;4;Sim;4
+NV-00454;28/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;BE-002;Kit Skincare Glow;Beleza;;Orgânico;189.90;4;0.0722;759.60;54.84;704.76;328.00;376.76;Carteira digital;Devolvido;4;Sim;
+NV-00455;04/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0608;179.90;10.94;168.96;88.00;80.96;Carteira digital;Entregue;3;Não;2
+NV-00456;08/04/2026;E-commerce;Sudeste;MG;Belo Horizonte;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0627;319.90;20.06;299.84;154.00;145.84;Boleto;Em Separação;3;Não;
+NV-00457;06/03/2026;Loja Física;Nordeste;CE;Fortaleza;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;5;0.0790;899.50;71.06;828.44;440.00;388.44;Pix;Entregue;5;Não;5
+NV-00458;31/03/2026;E-commerce;Sul;PR;Curitiba;MO-003;Tênis Casual City;Moda;Páscoa Digital;Social + E-mail;349.90;1;0.1288;349.90;45.07;304.83;176.00;128.83;Cartão de crédito;Entregue;2;Não;3
+NV-00459;16/03/2026;Marketplace;Sul;SC;Florianópolis;SP-002;Tapete Yoga Move;Esporte;Semana do Consumidor;CRM + Mídia paga;129.90;4;0.1845;519.60;95.87;423.73;232.00;191.73;Carteira digital;Entregue;3;Não;4
+NV-00460;24/01/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;SP-003;Halter Ajustável;Esporte;Liquida Verão;Mídia paga;399.90;1;0.1214;399.90;48.55;351.35;226.00;125.35;Pix;Entregue;4;Não;5
+NV-00461;21/03/2026;Marketplace;Nordeste;BA;Salvador;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;2;0.0013;799.80;1.04;798.76;452.00;346.76;Carteira digital;Em Separação;7;Não;
+NV-00462;26/01/2026;E-commerce;Sul;PR;Curitiba;MO-002;Jaqueta Corta-Vento;Moda;Liquida Verão;Mídia paga;319.90;3;0.0862;959.70;82.73;876.97;462.00;414.97;Cartão de crédito;Devolvido;2;Sim;5
+NV-00463;05/03/2026;Loja Física;Centro-Oeste;DF;Brasília;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;2;0.0655;579.80;37.98;541.82;312.00;229.82;Pix;Entregue;7;Não;5
+NV-00464;15/02/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;4;0.0542;1119.60;60.68;1058.92;592.00;466.92;Boleto;Entregue;2;Não;5
+NV-00465;10/01/2026;Marketplace;Nordeste;CE;Fortaleza;BE-001;Secador Air;Beleza;Liquida Verão;Mídia paga;279.90;2;0.0851;559.80;47.64;512.16;296.00;216.16;Carteira digital;Entregue;10;Não;5
+NV-00466;28/04/2026;E-commerce;Nordeste;CE;Fortaleza;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0168;319.90;5.37;314.53;154.00;160.53;Cartão de crédito;Entregue;7;Não;5
+NV-00467;26/01/2026;E-commerce;Centro-Oeste;DF;Brasília;EL-002;Fone Pulse;Eletrônicos;Liquida Verão;Mídia paga;249.90;1;0.1304;249.90;32.59;217.31;132.00;85.31;Pix;Entregue;5;Não;4
+NV-00468;17/02/2026;E-commerce;Sul;RS;Porto Alegre;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;2;0.0549;1399.80;76.85;1322.95;810.00;512.95;Pix;Entregue;6;Não;4
+NV-00469;04/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;MO-002;Jaqueta Corta-Vento;Moda;Páscoa Digital;Social + E-mail;319.90;1;0.0667;319.90;21.34;298.56;154.00;144.56;Pix;Entregue;3;Não;
+NV-00470;28/01/2026;E-commerce;Sul;RS;Porto Alegre;CA-001;Cafeteira Aroma;Casa;Liquida Verão;Mídia paga;329.90;3;0.1554;989.70;153.80;835.90;555.00;280.90;Cartão de crédito;Entregue;7;Não;3
+NV-00471;31/01/2026;Loja Física;Nordeste;BA;Salvador;SP-003;Halter Ajustável;Esporte;Liquida Verão;Mídia paga;399.90;1;0.1476;399.90;59.03;340.87;226.00;114.87;Pix;Entregue;9;Não;5
+NV-00472;03/03/2026;E-commerce;Nordeste;PE;Recife;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;5;0.0405;1799.50;72.88;1726.62;990.00;736.62;Pix;Entregue;7;Não;
+NV-00473;08/04/2026;E-commerce;Sul;RS;Porto Alegre;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0035;249.90;0.87;249.03;132.00;117.03;Boleto;Entregue;7;Não;5
+NV-00474;28/04/2026;Marketplace;Sudeste;SP;São Paulo;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;2;0.0462;639.80;29.56;610.24;308.00;302.24;Carteira digital;Entregue;3;Não;5
+NV-00475;08/03/2026;E-commerce;Sul;SC;Florianópolis;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0230;199.90;4.60;195.30;102.00;93.30;Cartão de crédito;Entregue;4;Não;5
+NV-00476;21/04/2026;E-commerce;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Frete Turbo;CRM;289.90;1;0.0435;289.90;12.61;277.29;156.00;121.29;Carteira digital;Entregue;4;Não;
+NV-00477;03/02/2026;E-commerce;Sul;SC;Florianópolis;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0112;259.90;2.91;256.99;144.00;112.99;Boleto;Entregue;4;Não;4
+NV-00478;17/03/2026;Loja Física;Centro-Oeste;GO;Goiânia;EL-001;Smartwatch Move;Eletrônicos;;CRM + Mídia paga;699.90;3;0.1582;2099.70;332.17;1767.53;1215.00;552.53;Cartão de crédito;Entregue;7;Não;3
+NV-00479;17/02/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;4;0.0158;919.60;14.53;905.07;484.00;421.07;Pix;Entregue;7;Não;1
+NV-00480;13/04/2026;E-commerce;Sudeste;SP;São Paulo;EL-003;Caixa de Som Orbit;Eletrônicos;Frete Turbo;CRM;359.90;2;0.0563;719.80;40.52;679.28;396.00;283.28;Pix;Entregue;7;Não;4
+NV-00481;09/02/2026;Marketplace;Nordeste;CE;Fortaleza;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0374;219.90;8.22;211.68;118.00;93.68;Cartão de crédito;Entregue;8;Não;3
+NV-00482;11/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;3;0.0632;599.70;37.90;561.80;306.00;255.80;Boleto;Entregue;8;Não;4
+NV-00483;20/01/2026;Loja Física;Sudeste;MG;Belo Horizonte;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0164;349.90;5.74;344.16;176.00;168.16;Carteira digital;Entregue;6;Não;5
+NV-00484;27/02/2026;Loja Física;Nordeste;CE;Fortaleza;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0771;899.90;69.38;830.52;520.00;310.52;Boleto;Entregue;5;Não;4
+NV-00485;23/01/2026;E-commerce;Sul;SC;Florianópolis;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;3;0.0178;659.70;11.74;647.96;354.00;293.96;Boleto;Cancelado;;Não;
+NV-00486;14/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;CA-002;Liquidificador Blend;Casa;Frete Turbo;CRM;219.90;1;0.0905;219.90;19.90;200.00;118.00;82.00;Boleto;Entregue;3;Não;4
+NV-00487;16/04/2026;Loja Física;Centro-Oeste;DF;Brasília;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;4;0.0182;1399.60;25.47;1374.13;704.00;670.13;Cartão de crédito;Entregue;5;Não;5
+NV-00488;30/03/2026;Marketplace;Sul;PR;Curitiba;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;3;0.0469;839.70;39.38;800.32;444.00;356.32;Carteira digital;Entregue;4;Não;5
+NV-00489;27/04/2026;E-commerce;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0436;219.90;9.59;210.31;118.00;92.31;Carteira digital;Entregue;6;Não;3
+NV-00490;29/03/2026;E-commerce;Sul;SC;Florianópolis;MO-002;Jaqueta Corta-Vento;Moda;Páscoa Digital;Social + E-mail;319.90;1;0.1506;319.90;48.18;271.72;154.00;117.72;Carteira digital;Entregue;6;Não;5
+NV-00491;29/03/2026;Marketplace;Centro-Oeste;GO;Goiânia;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0785;319.90;25.11;294.79;154.00;140.79;Carteira digital;Entregue;6;Não;5
+NV-00492;29/01/2026;Marketplace;Sul;PR;Curitiba;PT-002;Cama PetCloud;Pet;Liquida Verão;Mídia paga;229.90;2;0.1106;459.80;50.85;408.95;242.00;166.95;Cartão de crédito;Entregue;2;Não;4
+NV-00493;24/04/2026;E-commerce;Sudeste;SP;São Paulo;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0070;899.90;6.30;893.60;520.00;373.60;Carteira digital;Entregue;6;Não;4
+NV-00494;26/02/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0536;219.90;11.79;208.11;118.00;90.11;Pix;Entregue;3;Não;3
+NV-00495;05/04/2026;E-commerce;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;2;0.0117;439.80;5.15;434.65;236.00;198.65;Pix;Entregue;4;Não;3
+NV-00496;04/03/2026;Marketplace;Nordeste;BA;Salvador;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;2;0.0338;1399.80;47.31;1352.49;810.00;542.49;Boleto;Entregue;9;Não;4
+NV-00497;18/04/2026;Marketplace;Sudeste;SP;São Paulo;MO-003;Tênis Casual City;Moda;Frete Turbo;CRM;349.90;1;0.1156;349.90;40.45;309.45;176.00;133.45;Pix;Entregue;4;Não;4
+NV-00498;16/04/2026;Loja Física;Sul;PR;Curitiba;EL-003;Caixa de Som Orbit;Eletrônicos;Frete Turbo;CRM;359.90;1;0.1143;359.90;41.14;318.76;198.00;120.76;Cartão de crédito;Entregue;6;Não;4
+NV-00499;23/04/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0408;349.90;14.28;335.62;176.00;159.62;Carteira digital;Entregue;3;Não;5
+NV-00500;03/04/2026;Loja Física;Sudeste;MG;Belo Horizonte;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0781;399.90;31.23;368.67;226.00;142.67;Cartão de crédito;Em Separação;6;Não;
+NV-00501;10/02/2026;Marketplace;Sudeste;SP;São Paulo;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0275;149.90;4.12;145.78;62.00;83.78;Cartão de crédito;Entregue;7;Não;4
+NV-00502;03/04/2026;E-commerce;Nordeste;BA;Salvador;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;3;0.0670;659.70;44.20;615.50;354.00;261.50;Boleto;Entregue;6;Não;4
+NV-00503;12/02/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0329;219.90;7.23;212.67;118.00;94.67;Boleto;Entregue;3;Não;4
+NV-00504;14/01/2026;Marketplace;Centro-Oeste;GO;Goiânia;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;5;0.0018;649.50;1.17;648.33;290.00;358.33;Pix;Entregue;5;Não;5
+NV-00505;20/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;CA-001;Cafeteira Aroma;Casa;Frete Turbo;CRM;329.90;1;0.0904;329.90;29.82;300.08;185.00;115.08;Cartão de crédito;Entregue;3;Não;4
+NV-00506;21/04/2026;E-commerce;Nordeste;PE;Recife;EL-003;Caixa de Som Orbit;Eletrônicos;Frete Turbo;CRM;359.90;1;0.0953;359.90;34.30;325.60;198.00;127.60;Carteira digital;Entregue;9;Não;5
+NV-00507;26/03/2026;Loja Física;Nordeste;PE;Recife;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0250;399.90;10.00;389.90;226.00;163.90;Carteira digital;Entregue;7;Não;3
+NV-00508;22/01/2026;E-commerce;Sul;SC;Florianópolis;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0268;359.90;9.65;350.25;198.00;152.25;Pix;Entregue;2;Não;4
+NV-00509;06/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;5;0.0738;3499.50;258.26;3241.24;2025.00;1216.24;Boleto;Entregue;7;Não;3
+NV-00510;30/01/2026;Marketplace;Sul;RS;Porto Alegre;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0346;189.90;6.57;183.33;82.00;101.33;Cartão de crédito;Entregue;3;Não;4
+NV-00511;11/03/2026;Marketplace;Centro-Oeste;DF;Brasília;SP-001;Garrafa Térmica Pro;Esporte;Semana do Consumidor;CRM + Mídia paga;149.90;1;0.2175;149.90;32.60;117.30;62.00;55.30;Cartão de crédito;Entregue;4;Não;
+NV-00512;23/03/2026;E-commerce;Sudeste;SP;São Paulo;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0619;289.90;17.94;271.96;156.00;115.96;Cartão de crédito;Entregue;3;Não;5
+NV-00513;09/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;2;0.0309;479.80;14.83;464.97;232.00;232.97;Pix;Em Separação;6;Não;
+NV-00514;21/04/2026;E-commerce;Nordeste;CE;Fortaleza;MO-001;Mochila Urban;Moda;Frete Turbo;CRM;239.90;2;0.0784;479.80;37.62;442.18;232.00;210.18;Carteira digital;Entregue;9;Não;1
+NV-00515;28/03/2026;Marketplace;Nordeste;BA;Salvador;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0517;359.80;18.60;341.20;176.00;165.20;Carteira digital;Entregue;6;Não;
+NV-00516;01/04/2026;E-commerce;Sul;RS;Porto Alegre;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;4;0.0105;999.60;10.50;989.10;528.00;461.10;Pix;Entregue;6;Não;3
+NV-00517;19/04/2026;Loja Física;Sudeste;MG;Belo Horizonte;ES-001;Cadeira Flex;Escritório;Frete Turbo;CRM;899.90;1;0.0624;899.90;56.15;843.75;520.00;323.75;Carteira digital;Entregue;7;Não;4
+NV-00518;12/02/2026;E-commerce;Centro-Oeste;DF;Brasília;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0016;499.90;0.80;499.10;290.00;209.10;Cartão de crédito;Cancelado;;Não;
+NV-00519;18/04/2026;Marketplace;Nordeste;PE;Recife;BE-001;Secador Air;Beleza;Frete Turbo;CRM;279.90;2;0.0613;559.80;34.32;525.48;296.00;229.48;Boleto;Entregue;9;Não;5
+NV-00520;05/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;BE-001;Secador Air;Beleza;Páscoa Digital;Social + E-mail;279.90;3;0.1372;839.70;115.21;724.49;444.00;280.49;Pix;Entregue;8;Não;5
+NV-00521;25/03/2026;E-commerce;Sul;SC;Florianópolis;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.1148;249.90;28.69;221.21;132.00;89.21;Carteira digital;Entregue;7;Não;
+NV-00522;28/02/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;2;0.0117;799.80;9.36;790.44;452.00;338.44;Cartão de crédito;Entregue;3;Não;
+NV-00523;21/03/2026;E-commerce;Centro-Oeste;DF;Brasília;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;2;0.0551;1799.80;99.17;1700.63;1040.00;660.63;Carteira digital;Cancelado;;Não;
+NV-00524;11/03/2026;E-commerce;Sudeste;MG;Belo Horizonte;MO-001;Mochila Urban;Moda;Semana do Consumidor;CRM + Mídia paga;239.90;1;0.1683;239.90;40.38;199.52;116.00;83.52;Boleto;Entregue;3;Não;4
+NV-00525;02/02/2026;E-commerce;Nordeste;CE;Fortaleza;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0341;329.90;11.25;318.65;185.00;133.65;Boleto;Entregue;10;Não;2
+NV-00526;18/03/2026;E-commerce;Nordeste;PE;Recife;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0286;239.90;6.86;233.04;116.00;117.04;Cartão de crédito;Entregue;4;Não;4
+NV-00527;05/02/2026;E-commerce;Sul;PR;Curitiba;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;3;0.0366;869.70;31.83;837.87;468.00;369.87;Carteira digital;Em Separação;5;Não;
+NV-00528;16/04/2026;E-commerce;Nordeste;CE;Fortaleza;MO-003;Tênis Casual City;Moda;Frete Turbo;CRM;349.90;1;0.0798;349.90;27.92;321.98;176.00;145.98;Carteira digital;Entregue;4;Não;5
+NV-00529;03/04/2026;E-commerce;Nordeste;PE;Recife;BE-001;Secador Air;Beleza;Páscoa Digital;Social + E-mail;279.90;3;0.0787;839.70;66.08;773.62;444.00;329.62;Pix;Devolvido;5;Sim;4
+NV-00530;20/03/2026;Marketplace;Centro-Oeste;DF;Brasília;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0593;329.90;19.56;310.34;185.00;125.34;Carteira digital;Entregue;7;Não;5
+NV-00531;14/03/2026;E-commerce;Sul;PR;Curitiba;BE-002;Kit Skincare Glow;Beleza;Semana do Consumidor;CRM + Mídia paga;189.90;1;0.1837;189.90;34.88;155.02;82.00;73.02;Cartão de crédito;Entregue;7;Não;4
+NV-00532;24/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;2;0.0629;379.80;23.89;355.91;164.00;191.91;Carteira digital;Entregue;4;Não;1
+NV-00533;03/04/2026;Loja Física;Centro-Oeste;DF;Brasília;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0461;699.90;32.27;667.63;405.00;262.63;Pix;Entregue;10;Não;
+NV-00534;23/04/2026;Loja Física;Nordeste;CE;Fortaleza;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0030;129.90;0.39;129.51;58.00;71.51;Boleto;Entregue;10;Não;
+NV-00535;28/02/2026;Loja Física;Nordeste;CE;Fortaleza;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.1095;199.90;21.89;178.01;102.00;76.01;Pix;Entregue;5;Não;5
+NV-00536;16/01/2026;Loja Física;Nordeste;CE;Fortaleza;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0648;219.90;14.25;205.65;118.00;87.65;Carteira digital;Entregue;7;Não;5
+NV-00537;16/01/2026;E-commerce;Centro-Oeste;GO;Goiânia;CA-002;Liquidificador Blend;Casa;Liquida Verão;Mídia paga;219.90;5;0.1080;1099.50;118.75;980.75;590.00;390.75;Cartão de crédito;Entregue;4;Não;5
+NV-00538;28/04/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0641;249.90;16.02;233.88;132.00;101.88;Cartão de crédito;Entregue;6;Não;5
+NV-00539;20/03/2026;E-commerce;Nordeste;CE;Fortaleza;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0755;319.90;24.15;295.75;154.00;141.75;Pix;Entregue;8;Não;5
+NV-00540;20/02/2026;Marketplace;Sul;SC;Florianópolis;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0226;359.90;8.13;351.77;198.00;153.77;Boleto;Em Separação;7;Não;
+NV-00541;06/01/2026;E-commerce;Centro-Oeste;GO;Goiânia;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0645;229.90;14.83;215.07;121.00;94.07;Cartão de crédito;Entregue;6;Não;5
+NV-00542;24/04/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;EL-001;Smartwatch Move;Eletrônicos;Frete Turbo;CRM;699.90;2;0.0645;1399.80;90.29;1309.51;810.00;499.51;Boleto;Entregue;5;Não;3
+NV-00543;09/03/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0301;399.90;12.04;387.86;226.00;161.86;Cartão de crédito;Entregue;7;Não;4
+NV-00544;27/01/2026;E-commerce;Sul;RS;Porto Alegre;BE-001;Secador Air;Beleza;Liquida Verão;Mídia paga;279.90;2;0.0922;559.80;51.61;508.19;296.00;212.19;Pix;Entregue;2;Não;4
+NV-00545;26/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;ES-003;Teclado Silent;Escritório;Páscoa Digital;Social + E-mail;199.90;2;0.1355;399.80;54.17;345.63;204.00;141.63;Carteira digital;Devolvido;9;Sim;4
+NV-00546;04/04/2026;E-commerce;Sul;PR;Curitiba;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;2;0.0072;559.80;4.03;555.77;296.00;259.77;Carteira digital;Devolvido;5;Sim;3
+NV-00547;20/02/2026;Loja Física;Nordeste;BA;Salvador;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;2;0.0105;659.80;6.93;652.87;370.00;282.87;Carteira digital;Em Separação;7;Não;
+NV-00548;20/04/2026;E-commerce;Nordeste;PE;Recife;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0287;239.90;6.89;233.01;116.00;117.01;Pix;Entregue;4;Não;4
+NV-00549;10/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0201;249.90;5.02;244.88;132.00;112.88;Cartão de crédito;Entregue;3;Não;5
+NV-00550;13/03/2026;E-commerce;Sul;PR;Curitiba;MO-003;Tênis Casual City;Moda;Semana do Consumidor;CRM + Mídia paga;349.90;1;0.2197;349.90;76.87;273.03;176.00;97.03;Pix;Entregue;6;Não;4
+NV-00551;03/02/2026;Marketplace;Sul;RS;Porto Alegre;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;2;0.0728;579.80;42.21;537.59;312.00;225.59;Cartão de crédito;Entregue;4;Não;2
+NV-00552;11/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0214;219.90;4.71;215.19;118.00;97.19;Pix;Entregue;3;Não;4
+NV-00553;03/02/2026;Marketplace;Nordeste;PE;Recife;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0183;319.90;5.85;314.05;154.00;160.05;Cartão de crédito;Entregue;10;Não;4
+NV-00554;19/01/2026;E-commerce;Centro-Oeste;GO;Goiânia;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;3;0.0582;689.70;40.14;649.56;363.00;286.56;Carteira digital;Entregue;4;Não;1
+NV-00555;15/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;2;0.0207;439.80;9.10;430.70;236.00;194.70;Carteira digital;Entregue;5;Não;5
+NV-00556;23/04/2026;Loja Física;Sudeste;MG;Belo Horizonte;CA-003;Aspirador Compact;Casa;Frete Turbo;CRM;499.90;2;0.0608;999.80;60.79;939.01;580.00;359.01;Carteira digital;Entregue;4;Não;5
+NV-00557;07/03/2026;Loja Física;Sudeste;SP;São Paulo;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0066;329.90;2.18;327.72;185.00;142.72;Cartão de crédito;Entregue;5;Não;4
+NV-00558;26/01/2026;E-commerce;Sul;RS;Porto Alegre;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0138;359.90;4.97;354.93;198.00;156.93;Pix;Entregue;6;Não;3
+NV-00559;24/01/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;PT-002;Cama PetCloud;Pet;Liquida Verão;Mídia paga;229.90;2;0.0873;459.80;40.14;419.66;242.00;177.66;Boleto;Entregue;4;Não;5
+NV-00560;03/04/2026;Loja Física;Nordeste;PE;Recife;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;3;0.0752;449.70;33.82;415.88;186.00;229.88;Carteira digital;Entregue;6;Não;5
+NV-00561;26/02/2026;E-commerce;Nordeste;CE;Fortaleza;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;3;0.0111;659.70;7.32;652.38;354.00;298.38;Pix;Entregue;5;Não;5
+NV-00562;26/01/2026;Marketplace;Sul;RS;Porto Alegre;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;4;0.0064;1399.60;8.96;1390.64;704.00;686.64;Cartão de crédito;Entregue;7;Não;3
+NV-00563;15/03/2026;Loja Física;Nordeste;CE;Fortaleza;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;3;0.0329;449.70;14.80;434.90;186.00;248.90;Pix;Entregue;4;Não;
+NV-00564;28/02/2026;E-commerce;Centro-Oeste;GO;Goiânia;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0619;279.90;17.33;262.57;148.00;114.57;Carteira digital;Entregue;10;Não;4
+NV-00565;28/03/2026;E-commerce;Sudeste;SP;São Paulo;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;2;0.0704;719.80;50.67;669.13;396.00;273.13;Pix;Entregue;4;Não;4
+NV-00566;14/02/2026;Marketplace;Centro-Oeste;DF;Brasília;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;3;0.0277;1049.70;29.08;1020.62;528.00;492.62;Pix;Entregue;4;Não;5
+NV-00567;14/01/2026;E-commerce;Nordeste;CE;Fortaleza;ES-003;Teclado Silent;Escritório;Liquida Verão;Mídia paga;199.90;3;0.0928;599.70;55.65;544.05;306.00;238.05;Boleto;Entregue;9;Não;4
+NV-00568;13/04/2026;Marketplace;Sul;SC;Florianópolis;EL-001;Smartwatch Move;Eletrônicos;Frete Turbo;CRM;699.90;2;0.0592;1399.80;82.87;1316.93;810.00;506.93;Carteira digital;Entregue;5;Não;
+NV-00569;02/04/2026;E-commerce;Sul;PR;Curitiba;SP-003;Halter Ajustável;Esporte;Páscoa Digital;Social + E-mail;399.90;4;0.0864;1599.60;138.21;1461.39;904.00;557.39;Pix;Entregue;5;Não;3
+NV-00570;26/04/2026;Loja Física;Sul;PR;Curitiba;EL-002;Fone Pulse;Eletrônicos;Frete Turbo;CRM;249.90;2;0.0898;499.80;44.88;454.92;264.00;190.92;Carteira digital;Entregue;2;Não;5
+NV-00571;11/03/2026;E-commerce;Sul;RS;Porto Alegre;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;2;0.0458;719.80;32.97;686.83;396.00;290.83;Boleto;Entregue;4;Não;2
+NV-00572;30/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0124;349.90;4.34;345.56;176.00;169.56;Cartão de crédito;Entregue;7;Não;4
+NV-00573;18/01/2026;E-commerce;Sudeste;MG;Belo Horizonte;EL-002;Fone Pulse;Eletrônicos;Liquida Verão;Mídia paga;249.90;1;0.1235;249.90;30.86;219.04;132.00;87.04;Pix;Cancelado;;Não;
+NV-00574;27/01/2026;Loja Física;Nordeste;BA;Salvador;BE-002;Kit Skincare Glow;Beleza;Liquida Verão;Mídia paga;189.90;1;0.1532;189.90;29.09;160.81;82.00;78.81;Carteira digital;Entregue;10;Não;3
+NV-00575;27/03/2026;Loja Física;Nordeste;BA;Salvador;SP-003;Halter Ajustável;Esporte;Páscoa Digital;Social + E-mail;399.90;3;0.0901;1199.70;108.09;1091.61;678.00;413.61;Cartão de crédito;Entregue;7;Não;5
+NV-00576;22/03/2026;E-commerce;Nordeste;CE;Fortaleza;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0074;359.80;2.66;357.14;176.00;181.14;Pix;Entregue;6;Não;5
+NV-00577;12/02/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0106;499.90;5.30;494.60;290.00;204.60;Carteira digital;Entregue;7;Não;4
+NV-00578;21/02/2026;Loja Física;Sudeste;SP;São Paulo;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0710;499.80;35.49;464.31;264.00;200.31;Boleto;Entregue;3;Não;5
+NV-00579;06/02/2026;E-commerce;Sul;RS;Porto Alegre;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0286;399.90;11.44;388.46;226.00;162.46;Boleto;Em Separação;5;Não;
+NV-00580;03/04/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0428;219.90;9.41;210.49;118.00;92.49;Carteira digital;Devolvido;4;Sim;4
+NV-00581;04/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;EL-004;Webcam Pro;Eletrônicos;Páscoa Digital;Social + E-mail;289.90;2;0.0767;579.80;44.47;535.33;312.00;223.33;Pix;Entregue;6;Não;5
+NV-00582;30/04/2026;Marketplace;Sul;RS;Porto Alegre;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0599;329.90;19.76;310.14;185.00;125.14;Boleto;Entregue;5;Não;5
+NV-00583;14/03/2026;E-commerce;Sul;SC;Florianópolis;ES-001;Cadeira Flex;Escritório;Semana do Consumidor;CRM + Mídia paga;899.90;4;0.2027;3599.60;729.64;2869.96;2080.00;789.96;Cartão de crédito;Entregue;2;Não;
+NV-00584;11/01/2026;E-commerce;Nordeste;PE;Recife;PT-002;Cama PetCloud;Pet;Liquida Verão;Mídia paga;229.90;1;0.1000;229.90;22.99;206.91;121.00;85.91;Carteira digital;Entregue;7;Não;4
+NV-00585;08/02/2026;E-commerce;Centro-Oeste;DF;Brasília;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;2;0.0790;719.80;56.86;662.94;396.00;266.94;Pix;Entregue;6;Não;4
+NV-00586;24/01/2026;Loja Física;Sul;SC;Florianópolis;MO-003;Tênis Casual City;Moda;Liquida Verão;Mídia paga;349.90;4;0.1328;1399.60;185.87;1213.73;704.00;509.73;Pix;Cancelado;;Não;
+NV-00587;22/01/2026;E-commerce;Centro-Oeste;DF;Brasília;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0615;129.90;7.99;121.91;58.00;63.91;Boleto;Entregue;4;Não;4
+NV-00588;14/04/2026;E-commerce;Sul;PR;Curitiba;PT-002;Cama PetCloud;Pet;Frete Turbo;CRM;229.90;1;0.1016;229.90;23.36;206.54;121.00;85.54;Boleto;Entregue;2;Não;
+NV-00589;23/03/2026;Loja Física;Sul;PR;Curitiba;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;1;0.0689;149.90;10.33;139.57;62.00;77.57;Pix;Entregue;5;Não;4
+NV-00590;19/03/2026;E-commerce;Sul;RS;Porto Alegre;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0381;289.90;11.05;278.85;156.00;122.85;Carteira digital;Cancelado;;Não;
+NV-00591;14/02/2026;E-commerce;Sul;PR;Curitiba;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;3;0.0701;1049.70;73.58;976.12;528.00;448.12;Boleto;Entregue;4;Não;4
+NV-00592;21/01/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;4;0.0345;1319.60;45.53;1274.07;740.00;534.07;Carteira digital;Entregue;5;Não;5
+NV-00593;12/04/2026;Loja Física;Centro-Oeste;GO;Goiânia;SP-001;Garrafa Térmica Pro;Esporte;Sem Campanha;Orgânico;149.90;4;0.0561;599.60;33.64;565.96;248.00;317.96;Cartão de crédito;Entregue;4;Não;4
+NV-00594;26/04/2026;E-commerce;Sul;PR;Curitiba;CA-002;Liquidificador Blend;Casa;Frete Turbo;CRM;219.90;1;0.0701;219.90;15.41;204.49;118.00;86.49;Boleto;Entregue;6;Não;5
+NV-00595;17/02/2026;E-commerce;Sul;SC;Florianópolis;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0040;319.90;1.28;318.62;154.00;164.62;Cartão de crédito;Entregue;7;Não;
+NV-00596;02/03/2026;Loja Física;Centro-Oeste;DF;Brasília;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0702;279.90;19.65;260.25;148.00;112.25;Carteira digital;Entregue;6;Não;5
+NV-00597;05/02/2026;Loja Física;Sul;PR;Curitiba;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0413;199.90;8.26;191.64;102.00;89.64;Boleto;Entregue;2;Não;5
+NV-00598;19/01/2026;E-commerce;Sul;SC;Florianópolis;SP-002;Tapete Yoga Move;Esporte;Liquida Verão;Mídia paga;129.90;3;0.4200;389.70;163.67;226.03;174.00;52.03;Boleto;Entregue;6;Não;3
+NV-00599;06/01/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0310;329.90;10.23;319.67;185.00;134.67;Carteira digital;Entregue;2;Não;4
+NV-00600;06/04/2026;E-commerce;Centro-Oeste;DF;Brasília;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;1;0.0093;219.90;2.05;217.85;118.00;99.85;Pix;Entregue;5;Não;5
+NV-00601;04/03/2026;E-commerce;Nordeste;CE;Fortaleza;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0519;319.90;16.60;303.30;154.00;149.30;Carteira digital;Entregue;8;Não;5
+NV-00602;17/04/2026;E-commerce;Centro-Oeste;DF;Brasília;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;5;0.0262;2499.50;65.49;2434.01;1450.00;984.01;Pix;Em Separação;6;Não;
+NV-00603;01/02/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;4;0.0531;759.60;40.33;719.27;328.00;391.27;Cartão de crédito;Entregue;5;Não;3
+NV-00604;03/02/2026;E-commerce;Sul;SC;Florianópolis;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;2;0.0250;519.80;12.99;506.81;288.00;218.81;Boleto;Entregue;2;Não;4
+NV-00605;18/04/2026;E-commerce;Sul;RS;Porto Alegre;ES-002;Luminária Desk;Escritório;Frete Turbo;CRM;179.90;1;0.1163;179.90;20.92;158.98;88.00;70.98;Pix;Entregue;6;Não;4
+NV-00606;06/04/2026;Loja Física;Centro-Oeste;DF;Brasília;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0711;289.90;20.61;269.29;156.00;113.29;Carteira digital;Entregue;4;Não;
+NV-00607;02/03/2026;E-commerce;Sul;RS;Porto Alegre;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0565;499.90;28.24;471.66;290.00;181.66;Boleto;Entregue;6;Não;5
+NV-00608;21/03/2026;E-commerce;Centro-Oeste;GO;Goiânia;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;3;0.0561;569.70;31.96;537.74;246.00;291.74;Pix;Entregue;6;Não;5
+NV-00609;28/02/2026;E-commerce;Nordeste;CE;Fortaleza;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0750;239.90;17.99;221.91;116.00;105.91;Cartão de crédito;Entregue;9;Não;5
+NV-00610;07/01/2026;E-commerce;Nordeste;PE;Recife;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0320;199.90;6.40;193.50;102.00;91.50;Boleto;Entregue;4;Não;4
+NV-00611;12/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;CA-003;Aspirador Compact;Casa;Frete Turbo;CRM;499.90;3;0.0933;1499.70;139.92;1359.78;870.00;489.78;Carteira digital;Entregue;9;Não;5
+NV-00612;31/03/2026;E-commerce;Nordeste;PE;Recife;CA-003;Aspirador Compact;Casa;Páscoa Digital;Social + E-mail;499.90;2;0.1149;999.80;114.88;884.92;580.00;304.92;Pix;Entregue;5;Não;4
+NV-00613;13/02/2026;E-commerce;Sudeste;MG;Belo Horizonte;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0422;699.90;29.54;670.36;405.00;265.36;Cartão de crédito;Entregue;4;Não;4
+NV-00614;19/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;5;0.0760;1399.50;106.36;1293.14;740.00;553.14;Pix;Entregue;2;Não;5
+NV-00615;27/04/2026;Loja Física;Centro-Oeste;DF;Brasília;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;2;0.0058;659.80;3.83;655.97;370.00;285.97;Carteira digital;Cancelado;;Não;
+NV-00616;04/02/2026;Marketplace;Nordeste;BA;Salvador;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;3;0.0769;779.70;59.96;719.74;432.00;287.74;Cartão de crédito;Entregue;4;Não;5
+NV-00617;17/02/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0695;129.90;9.03;120.87;58.00;62.87;Pix;Entregue;2;Não;4
+NV-00618;22/01/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;3;0.0616;689.70;42.49;647.21;363.00;284.21;Pix;Entregue;2;Não;1
+NV-00619;22/01/2026;Loja Física;Sudeste;MG;Belo Horizonte;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0298;199.90;5.96;193.94;102.00;91.94;Boleto;Entregue;2;Não;3
+NV-00620;14/04/2026;E-commerce;Sudeste;MG;Belo Horizonte;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0080;189.90;1.52;188.38;82.00;106.38;Cartão de crédito;Entregue;7;Não;5
+NV-00621;01/04/2026;Marketplace;Sudeste;RJ;Rio de Janeiro;EL-002;Fone Pulse;Eletrônicos;Páscoa Digital;Social + E-mail;249.90;2;0.1319;499.80;65.92;433.88;264.00;169.88;Pix;Entregue;6;Não;5
+NV-00622;22/01/2026;Loja Física;Sul;SC;Florianópolis;BE-001;Secador Air;Beleza;Liquida Verão;Mídia paga;279.90;4;0.1052;1119.60;117.78;1001.82;592.00;409.82;Pix;Entregue;4;Não;3
+NV-00623;25/04/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;ES-002;Luminária Desk;Escritório;Frete Turbo;CRM;179.90;1;0.0760;179.90;13.67;166.23;88.00;78.23;Boleto;Entregue;5;Não;4
+NV-00624;17/01/2026;Loja Física;Nordeste;PE;Recife;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;4;0.0252;3599.60;90.71;3508.89;2080.00;1428.89;Cartão de crédito;Em Separação;9;Não;
+NV-00625;20/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;CA-003;Aspirador Compact;Casa;Frete Turbo;CRM;499.90;1;0.0434;499.90;21.70;478.20;290.00;188.20;Pix;Entregue;7;Não;5
+NV-00626;04/03/2026;E-commerce;Sudeste;SP;São Paulo;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;2;0.0491;379.80;18.65;361.15;164.00;197.15;Cartão de crédito;Devolvido;3;Sim;4
+NV-00627;28/02/2026;E-commerce;Sul;RS;Porto Alegre;BE-001;Secador Air;Beleza;Sem Campanha;Orgânico;279.90;1;0.0300;279.90;8.40;271.50;148.00;123.50;Boleto;Entregue;3;Não;5
+NV-00628;27/04/2026;Marketplace;Sul;PR;Curitiba;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;2;0.0561;499.80;28.04;471.76;264.00;207.76;Boleto;Entregue;5;Não;4
+NV-00629;06/02/2026;E-commerce;Nordeste;BA;Salvador;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;3;0.0010;869.70;0.87;868.83;468.00;400.83;Cartão de crédito;Entregue;7;Não;5
+NV-00630;18/03/2026;E-commerce;Sul;RS;Porto Alegre;CA-002;Liquidificador Blend;Casa;Semana do Consumidor;CRM + Mídia paga;219.90;2;0.2741;439.80;120.55;319.25;236.00;83.25;Boleto;Entregue;7;Não;3
+NV-00631;09/01/2026;E-commerce;Sul;RS;Porto Alegre;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0029;359.80;1.04;358.76;176.00;182.76;Boleto;Entregue;7;Não;5
+NV-00632;11/04/2026;E-commerce;Nordeste;PE;Recife;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;2;0.0210;1799.80;37.80;1762.00;1040.00;722.00;Pix;Entregue;4;Não;5
+NV-00633;29/01/2026;E-commerce;Centro-Oeste;DF;Brasília;SP-001;Garrafa Térmica Pro;Esporte;Liquida Verão;Mídia paga;149.90;1;0.1285;149.90;19.26;130.64;62.00;68.64;Pix;Entregue;7;Não;5
+NV-00634;26/01/2026;E-commerce;Centro-Oeste;DF;Brasília;MO-002;Jaqueta Corta-Vento;Moda;Liquida Verão;Mídia paga;319.90;1;0.1164;319.90;37.24;282.66;154.00;128.66;Boleto;Entregue;4;Não;5
+NV-00635;30/04/2026;Marketplace;Nordeste;BA;Salvador;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0306;329.90;10.09;319.81;185.00;134.81;Carteira digital;Entregue;5;Não;5
+NV-00636;22/02/2026;Loja Física;Nordeste;PE;Recife;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;2;0.0737;799.80;58.95;740.85;452.00;288.85;Carteira digital;Entregue;8;Não;5
+NV-00637;22/03/2026;E-commerce;Centro-Oeste;DF;Brasília;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0681;129.90;8.85;121.05;58.00;63.05;Boleto;Entregue;6;Não;4
+NV-00638;06/04/2026;E-commerce;Nordeste;BA;Salvador;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0325;129.90;4.22;125.68;58.00;67.68;Carteira digital;Entregue;6;Não;4
+NV-00639;19/04/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;3;0.0064;749.70;4.80;744.90;396.00;348.90;Boleto;Cancelado;;Não;
+NV-00640;23/01/2026;Marketplace;Sudeste;MG;Belo Horizonte;CA-001;Cafeteira Aroma;Casa;Liquida Verão;Mídia paga;329.90;1;0.1529;329.90;50.44;279.46;185.00;94.46;Pix;Entregue;5;Não;5
+NV-00641;21/01/2026;Loja Física;Nordeste;PE;Recife;PT-002;Cama PetCloud;Pet;Liquida Verão;Mídia paga;229.90;1;0.0808;229.90;18.58;211.32;121.00;90.32;Carteira digital;Entregue;7;Não;3
+NV-00642;18/04/2026;Marketplace;Nordeste;CE;Fortaleza;EL-004;Webcam Pro;Eletrônicos;Frete Turbo;CRM;289.90;1;0.1100;289.90;31.89;258.01;156.00;102.01;Cartão de crédito;Entregue;5;Não;3
+NV-00643;18/01/2026;E-commerce;Sudeste;SP;São Paulo;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0541;229.90;12.44;217.46;121.00;96.46;Carteira digital;Entregue;4;Não;4
+NV-00644;08/02/2026;Loja Física;Sul;PR;Curitiba;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0798;259.90;20.74;239.16;144.00;95.16;Pix;Entregue;7;Não;5
+NV-00645;15/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;EL-004;Webcam Pro;Eletrônicos;Frete Turbo;CRM;289.90;2;0.0845;579.80;48.99;530.81;312.00;218.81;Cartão de crédito;Entregue;7;Não;5
+NV-00646;14/01/2026;E-commerce;Nordeste;PE;Recife;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0552;349.90;19.31;330.59;176.00;154.59;Boleto;Cancelado;;Não;
+NV-00647;03/01/2026;Loja Física;Sul;RS;Porto Alegre;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;2;0.0266;459.80;12.23;447.57;242.00;205.57;Carteira digital;Cancelado;;Não;
+NV-00648;21/03/2026;Loja Física;Nordeste;BA;Salvador;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;2;0.0084;399.80;3.36;396.44;204.00;192.44;Boleto;Entregue;8;Não;5
+NV-00649;28/03/2026;E-commerce;Sul;RS;Porto Alegre;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;4;0.0239;1599.60;38.23;1561.37;904.00;657.37;Pix;Entregue;4;Não;4
+NV-00650;09/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0069;499.90;3.45;496.45;290.00;206.45;Boleto;Entregue;5;Não;1
+NV-00651;05/02/2026;E-commerce;Sudeste;SP;São Paulo;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;2;0.0727;799.80;58.15;741.65;452.00;289.65;Pix;Em Separação;5;Não;
+NV-00652;05/02/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;2;0.0168;659.80;11.08;648.72;370.00;278.72;Cartão de crédito;Entregue;4;Não;4
+NV-00653;09/01/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0426;239.90;10.22;229.68;116.00;113.68;Pix;Entregue;3;Não;4
+NV-00654;25/03/2026;Marketplace;Nordeste;CE;Fortaleza;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0302;259.90;7.85;252.05;144.00;108.05;Pix;Entregue;6;Não;4
+NV-00655;12/03/2026;Loja Física;Sul;PR;Curitiba;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0603;249.90;15.07;234.83;132.00;102.83;Boleto;Entregue;6;Não;4
+NV-00656;03/04/2026;Loja Física;Sudeste;MG;Belo Horizonte;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;1;0.0287;399.90;11.48;388.42;226.00;162.42;Cartão de crédito;Entregue;5;Não;4
+NV-00657;29/04/2026;Marketplace;Sul;PR;Curitiba;SP-003;Halter Ajustável;Esporte;Sem Campanha;Orgânico;399.90;5;0.0095;1999.50;19.00;1980.50;1130.00;850.50;Cartão de crédito;Entregue;2;Não;
+NV-00658;16/04/2026;E-commerce;Nordeste;CE;Fortaleza;CA-002;Liquidificador Blend;Casa;Frete Turbo;CRM;219.90;1;0.0988;219.90;21.73;198.17;118.00;80.17;Boleto;Cancelado;;Não;
+NV-00659;14/03/2026;E-commerce;Nordeste;BA;Salvador;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0183;359.90;6.59;353.31;198.00;155.31;Cartão de crédito;Entregue;4;Não;4
+NV-00660;29/01/2026;E-commerce;Sul;RS;Porto Alegre;SP-002;Tapete Yoga Move;Esporte;Liquida Verão;Mídia paga;129.90;1;0.1669;129.90;21.68;108.22;58.00;50.22;Cartão de crédito;Em Separação;7;Não;
+NV-00661;20/02/2026;E-commerce;Nordeste;PE;Recife;CA-002;Liquidificador Blend;Casa;Sem Campanha;Orgânico;219.90;2;0.0182;439.80;8.00;431.80;236.00;195.80;Carteira digital;Entregue;9;Não;4
+NV-00662;09/02/2026;E-commerce;Sudeste;SP;São Paulo;SP-002;Tapete Yoga Move;Esporte;Sem Campanha;Orgânico;129.90;1;0.0589;129.90;7.65;122.25;58.00;64.25;Cartão de crédito;Entregue;3;Não;5
+NV-00663;12/03/2026;E-commerce;Nordeste;CE;Fortaleza;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0358;259.90;9.30;250.60;144.00;106.60;Pix;Entregue;4;Não;5
+NV-00664;22/02/2026;E-commerce;Centro-Oeste;DF;Brasília;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;2;0.0629;639.80;40.24;599.56;308.00;291.56;Carteira digital;Devolvido;5;Sim;3
+NV-00665;25/02/2026;E-commerce;Nordeste;PE;Recife;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0335;329.90;11.05;318.85;185.00;133.85;Boleto;Entregue;6;Não;5
+NV-00666;05/02/2026;Marketplace;Nordeste;PE;Recife;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;1;0.0136;229.90;3.13;226.77;121.00;105.77;Pix;Entregue;3;Não;5
+NV-00667;03/04/2026;Ecommerce;Centro-Oeste;GO;Goiânia;EL-003;Caixa de Som Orbit;Eletrônicos;Páscoa Digital;Social + E-mail;359.90;5;0.1464;1799.50;263.45;1536.05;990.00;546.05;Cartão de crédito;Entregue;3;Não;4
+NV-00668;04/02/2026;E-commerce;Sul;PR;Curitiba;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0368;179.90;6.62;173.28;88.00;85.28;Boleto;Entregue;7;Não;3
+NV-00669;14/04/2026;Loja Física;Nordeste;PE;Recife;ES-002;Luminária Desk;Escritório;Frete Turbo;CRM;179.90;1;0.0804;179.90;14.46;165.44;88.00;77.44;Boleto;Entregue;5;Não;4
+NV-00670;13/04/2026;E-commerce;Sudeste;MG;Belo Horizonte;CA-002;Liquidificador Blend;Casa;Frete Turbo;CRM;219.90;1;0.0608;219.90;13.37;206.53;118.00;88.53;Carteira digital;Entregue;5;Não;5
+NV-00671;13/04/2026;E-commerce;Sul;RS;Porto Alegre;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;1;0.0031;199.90;0.62;199.28;102.00;97.28;Pix;Entregue;3;Não;5
+NV-00672;08/02/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0058;899.90;5.22;894.68;520.00;374.68;Cartão de crédito;Entregue;6;Não;4
+NV-00673;14/01/2026;Loja Física;Centro-Oeste;DF;Brasília;SP-001;Garrafa Térmica Pro;Esporte;Liquida Verão;Mídia paga;149.90;1;0.1389;149.90;20.82;129.08;62.00;67.08;Boleto;Entregue;4;Não;3
+NV-00674;25/03/2026;Marketplace;Centro-Oeste;GO;Goiânia;PT-001;Fonte PetFlow;Pet;Páscoa Digital;Social + E-mail;259.90;1;0.0851;259.90;22.12;237.78;144.00;93.78;Cartão de crédito;Entregue;5;Não;5
+NV-00675;31/03/2026;E-commerce;Sul;RS;Porto Alegre;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;2;0.0446;659.80;29.43;630.37;370.00;260.37;Cartão de crédito;Entregue;7;Não;5
+NV-00676;23/02/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;4;0.0783;1399.60;109.59;1290.01;704.00;586.01;Carteira digital;Entregue;7;Não;4
+NV-00677;20/01/2026;Loja Física;Sul;SC;Florianópolis;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0511;189.90;9.70;180.20;82.00;98.20;Cartão de crédito;Entregue;5;Não;4
+NV-00678;29/04/2026;Loja Física;Nordeste;PE;Recife;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0721;359.90;25.95;333.95;198.00;135.95;Cartão de crédito;Entregue;6;Não;5
+NV-00679;21/02/2026;E-commerce;Nordeste;CE;Fortaleza;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;2;0.0017;359.80;0.61;359.19;176.00;183.19;Carteira digital;Entregue;8;Não;3
+NV-00680;06/02/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0281;289.90;8.15;281.75;156.00;125.75;Carteira digital;Entregue;4;Não;5
+NV-00681;02/04/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;EL-004;Webcam Pro;Eletrônicos;Páscoa Digital;Social + E-mail;289.90;1;0.1569;289.90;45.49;244.41;156.00;88.41;Cartão de crédito;Entregue;6;Não;5
+NV-00682;17/04/2026;Loja Física;Sul;PR;Curitiba;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0620;359.90;22.31;337.59;198.00;139.59;Pix;Entregue;3;Não;4
+NV-00683;15/03/2026;Loja Física;Sul;PR;Curitiba;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;2;0.0078;639.80;4.99;634.81;308.00;326.81;Cartão de crédito;Entregue;4;Não;5
+NV-00684;17/03/2026;Loja Física;Sudeste;RJ;Rio de Janeiro;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;2;0.0576;1799.80;103.67;1696.13;1040.00;656.13;Pix;Entregue;3;Não;4
+NV-00685;24/02/2026;Marketplace;Centro-Oeste;GO;Goiânia;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;3;0.0382;1079.70;41.24;1038.46;594.00;444.46;Pix;Entregue;3;Não;4
+NV-00686;08/04/2026;E-commerce;Nordeste;CE;Fortaleza;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0580;359.90;20.87;339.03;198.00;141.03;Boleto;Entregue;5;Não;4
+NV-00687;08/01/2026;Marketplace;Nordeste;CE;Fortaleza;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;1;0.0469;359.90;16.88;343.02;198.00;145.02;Boleto;Entregue;4;Não;4
+NV-00688;28/03/2026;E-commerce;Nordeste;CE;Fortaleza;EL-004;Webcam Pro;Eletrônicos;Páscoa Digital;Social + E-mail;289.90;3;0.1530;869.70;133.06;736.64;468.00;268.64;Cartão de crédito;Entregue;6;Não;5
+NV-00689;07/03/2026;Loja Física;Nordeste;CE;Fortaleza;BE-002;Kit Skincare Glow;Beleza;Sem Campanha;Orgânico;189.90;1;0.0172;189.90;3.27;186.63;82.00;104.63;Cartão de crédito;Entregue;6;Não;
+NV-00690;13/03/2026;Marketplace;Nordeste;CE;Fortaleza;CA-001;Cafeteira Aroma;Casa;Semana do Consumidor;CRM + Mídia paga;329.90;1;0.1083;329.90;35.73;294.17;185.00;109.17;Boleto;Entregue;9;Não;5
+NV-00691;31/01/2026;Loja Física;Centro-Oeste;DF;Brasília;EL-002;Fone Pulse;Eletrônicos;Liquida Verão;Mídia paga;249.90;4;0.0881;999.60;88.06;911.54;528.00;383.54;Boleto;Cancelado;;Não;
+NV-00692;02/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;BE-002;Kit Skincare Glow;Beleza;Páscoa Digital;Social + E-mail;189.90;1;0.0820;189.90;15.57;174.33;82.00;92.33;Boleto;Entregue;4;Não;4
+NV-00693;11/02/2026;E-commerce;Sudeste;MG;Belo Horizonte;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0675;179.90;12.14;167.76;88.00;79.76;Carteira digital;Entregue;6;Não;4
+NV-00694;25/01/2026;E-commerce;Sudeste;MG;Belo Horizonte;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;3;0.0147;599.70;8.82;590.88;306.00;284.88;Carteira digital;Devolvido;4;Sim;1
+NV-00695;07/03/2026;Loja Física;Nordeste;BA;Salvador;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;2;0.0016;1799.80;2.88;1796.92;1040.00;756.92;Carteira digital;Entregue;3;Não;5
+NV-00696;25/01/2026;E-commerce;Nordeste;CE;Fortaleza;CA-003;Aspirador Compact;Casa;Sem Campanha;Orgânico;499.90;1;0.0631;499.90;31.54;468.36;290.00;178.36;Boleto;Entregue;6;Não;5
+NV-00697;20/01/2026;E-commerce;Sul;PR;Curitiba;EL-002;Fone Pulse;Eletrônicos;Liquida Verão;Mídia paga;249.90;1;0.1772;249.90;44.28;205.62;132.00;73.62;Boleto;Entregue;2;Não;2
+NV-00698;25/03/2026;E-commerce;Nordeste;BA;Salvador;SP-001;Garrafa Térmica Pro;Esporte;Páscoa Digital;Social + E-mail;149.90;1;0.1473;149.90;22.08;127.82;62.00;65.82;Cartão de crédito;Entregue;7;Não;5
+NV-00699;18/03/2026;Loja Física;Sul;PR;Curitiba;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0793;259.90;20.61;239.29;144.00;95.29;Carteira digital;Devolvido;5;Sim;3
+NV-00700;26/03/2026;Marketplace;Sudeste;MG;Belo Horizonte;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0506;349.90;17.70;332.20;176.00;156.20;Cartão de crédito;Entregue;5;Não;1
+NV-00701;22/02/2026;E-commerce;Sudeste;SP;São Paulo;CA-001;Cafeteira Aroma;Casa;Sem Campanha;Orgânico;329.90;1;0.0160;329.90;5.28;324.62;185.00;139.62;Boleto;Em Separação;6;Não;
+NV-00702;19/01/2026;Marketplace;Sul;PR;Curitiba;MO-002;Jaqueta Corta-Vento;Moda;Sem Campanha;Orgânico;319.90;1;0.0733;319.90;23.45;296.45;154.00;142.45;Cartão de crédito;Entregue;4;Não;4
+NV-00703;18/04/2026;E-commerce;Nordeste;BA;Salvador;SP-003;Halter Ajustável;Esporte;Frete Turbo;CRM;399.90;1;0.0819;399.90;32.75;367.15;226.00;141.15;Pix;Entregue;9;Não;
+NV-00704;26/04/2026;E-commerce;Sul;SC;Florianópolis;EL-004;Webcam Pro;Eletrônicos;Sem Campanha;Orgânico;289.90;1;0.0755;289.90;21.89;268.01;156.00;112.01;Boleto;Em Separação;5;Não;
+NV-00705;04/04/2026;Loja Física;Nordeste;CE;Fortaleza;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;4;0.0152;919.60;13.98;905.62;484.00;421.62;Carteira digital;Cancelado;;Não;
+NV-00706;08/03/2026;E-commerce;Nordeste;BA;Salvador;MO-003;Tênis Casual City;Moda;Sem Campanha;Orgânico;349.90;1;0.0515;349.90;18.02;331.88;176.00;155.88;Carteira digital;Entregue;5;Não;4
+NV-00707;03/01/2026;Marketplace;Sul;PR;Curitiba;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;1;0.0786;699.90;55.01;644.89;405.00;239.89;Carteira digital;Cancelado;;Não;
+NV-00708;03/03/2026;Loja Física;Sudeste;MG;Belo Horizonte;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;2;0.0100;1799.80;18.00;1781.80;1040.00;741.80;Pix;Entregue;5;Não;5
+NV-00709;21/01/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;ES-002;Luminária Desk;Escritório;Sem Campanha;Orgânico;179.90;1;0.0121;179.90;2.18;177.72;88.00;89.72;Cartão de crédito;Entregue;4;Não;5
+NV-00710;24/03/2026;E-commerce;Centro-Oeste;DF;Brasília;EL-002;Fone Pulse;Eletrônicos;Sem Campanha;Orgânico;249.90;1;0.0538;249.90;13.44;236.46;132.00;104.46;Cartão de crédito;Devolvido;4;Sim;2
+NV-00711;22/02/2026;Loja Física;Sudeste;MG;Belo Horizonte;EL-003;Caixa de Som Orbit;Eletrônicos;Sem Campanha;Orgânico;359.90;4;0.0263;1439.60;37.86;1401.74;792.00;609.74;Boleto;Entregue;2;Não;4
+NV-00712;03/02/2026;Marketplace;Sudeste;MG;Belo Horizonte;PT-002;Cama PetCloud;Pet;Sem Campanha;Orgânico;229.90;3;0.0128;689.70;8.83;680.87;363.00;317.87;Carteira digital;Entregue;2;Não;1
+NV-00713;08/03/2026;E-commerce;Nordeste;PE;Recife;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;2;0.0471;519.80;24.48;495.32;288.00;207.32;Carteira digital;Entregue;8;Não;
+NV-00714;30/01/2026;E-commerce;Centro-Oeste;DF;Brasília;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;2;0.0465;519.80;24.17;495.63;288.00;207.63;Pix;Entregue;8;Não;5
+NV-00715;24/02/2026;Loja Física;Sul;PR;Curitiba;ES-001;Cadeira Flex;Escritório;Sem Campanha;Orgânico;899.90;1;0.0537;899.90;48.32;851.58;520.00;331.58;Cartão de crédito;Entregue;3;Não;5
+NV-00716;16/02/2026;Loja Física;Sul;RS;Porto Alegre;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;2;0.0015;479.80;0.72;479.08;232.00;247.08;Cartão de crédito;Entregue;4;Não;3
+NV-00717;17/01/2026;E-commerce;Nordeste;CE;Fortaleza;EL-002;Fone Pulse;Eletrônicos;Liquida Verão;Mídia paga;249.90;1;0.1486;249.90;37.14;212.76;132.00;80.76;Carteira digital;Entregue;7;Não;5
+NV-00718;01/02/2026;E-commerce;Nordeste;BA;Salvador;ES-003;Teclado Silent;Escritório;Sem Campanha;Orgânico;199.90;4;0.0107;799.60;8.56;791.04;408.00;383.04;Cartão de crédito;Entregue;3;Não;3
+NV-00719;25/01/2026;E-commerce;Sudeste;RJ;Rio de Janeiro;SP-003;Halter Ajustável;Esporte;Liquida Verão;Mídia paga;399.90;2;0.1494;799.80;119.49;680.31;452.00;228.31;Boleto;Entregue;5;Não;5
+NV-00720;23/02/2026;E-commerce;Nordeste;CE;Fortaleza;MO-001;Mochila Urban;Moda;Sem Campanha;Orgânico;239.90;1;0.0131;239.90;3.14;236.76;116.00;120.76;Cartão de crédito;Entregue;10;Não;
+NV-00101;02/04/2026;E-commerce;Sul;PR;Curitiba;EL-004;Webcam Pro;Eletrônicos;Páscoa Digital;Social + E-mail;289.90;2;0.1567;579.80;90.85;488.95;312.00;176.95;Boleto;Entregue;7;Não;4
+NV-00334;16/04/2026;E-commerce;Sul;SC;Florianópolis;EL-004;Webcam Pro;Eletrônicos;Frete Turbo;CRM;289.90;2;0.0636;579.80;36.88;542.92;312.00;230.92;Boleto;Entregue;5;Não;3
+NV-00509;06/04/2026;E-commerce;Centro-Oeste;GO;Goiânia;EL-001;Smartwatch Move;Eletrônicos;Sem Campanha;Orgânico;699.90;5;0.0738;3499.50;258.26;3241.24;2025.00;1216.24;Boleto;Entregue;7;Não;3
+NV-00644;08/02/2026;Loja Física;Sul;PR;Curitiba;PT-001;Fonte PetFlow;Pet;Sem Campanha;Orgânico;259.90;1;0.0798;259.90;20.74;239.16;144.00;95.16;Pix;Entregue;7;Não;5
